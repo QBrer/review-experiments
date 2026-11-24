@@ -1,0 +1,16 @@
+{
+  "time": "2026-10-16T10:22:37.514673+00:00",
+  "rows": {
+    "coupling": 450,
+    "order": 75,
+    "phase": 225,
+    "area": 150,
+    "change": 1350,
+    "cost": 450,
+    "semantic_change": 75,
+    "window_qc": 25,
+    "transitions": 675
+  },
+  "unit_checks_passed": true,
+  "selection_unchanged": true
+}

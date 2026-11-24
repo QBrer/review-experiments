@@ -1,0 +1,12 @@
+﻿图号,PPT页,内容,数据（snapshots下）,代码
+Fig4_1,1,概念框架,作者原图；PPT手工重建,editable_figures/scripts/build_editable_ppt.py
+Fig4_2,2,产品与样区,product_display_samples.npz；样区位置表,snapshots/manuscript_analysis/esr_section4_20261023_revision7/update_review_figures.py
+Fig4_3,3,样区选择,mechanism/selection/candidates.csv；v4/split_manifest.csv；v5/new_sites.csv,snapshots/mechanism/code/select_regions.py；snapshots/selection_history/design_v3_feasibility.py；snapshots/v5/ablation.py
+Fig4_4,4,响应变异分解,mechanism/results/experiment_1/coupling.csv,snapshots/manuscript_analysis/esr_section4_20261023/decompose_response.py
+Fig4_5,5,多维条件与变化损失,mechanism/results/experiment_1/coupling.csv；mechanism/tables/Table_1_Coupling.csv,snapshots/mechanism/code/core.py；experiments.py；report_results.py
+Fig4_6,6,非交换性与支持域相位,mechanism/results/experiment_2/order.csv；results/review_multiscale_order/phase_all_scales.csv,snapshots/mechanism/code/core.py；experiments.py；review_multiscale_order_maps.py
+Fig4_7,7,当前框架应用流程,实际实现逻辑，无新增实验,snapshots/v4/engine.py；snapshots/v4/run.py；snapshots/v5/ablation.py
+Fig4_8,8,当前跨产品消融,v5/all_alignment_metrics.csv；task_metrics.csv；paired_contrasts.csv,snapshots/v5/ablation.py；snapshots/v5/report.py
+FigS1,9,共同参数网格,v5/all_common_parameter_results.csv,snapshots/v5/report.py
+FigS2,10,情景族对比,v5/all_alignment_metrics.csv；family_results.csv,snapshots/v5/ablation.py；snapshots/v5/report.py
+FigS3,11,先行策略选择探索,v4/method_summary.csv；strategy_choice_counts.csv；v5/paired_contrasts.csv,snapshots/v4/run.py；snapshots/v4/finish.py

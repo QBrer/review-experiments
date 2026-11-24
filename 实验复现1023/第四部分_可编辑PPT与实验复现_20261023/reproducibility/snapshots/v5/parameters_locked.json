@@ -1,0 +1,6 @@
+{
+  "time": "2026-10-22 16:00:59",
+  "sha256": "748896ab63d16162a8aad1a50d9b952bf1df9014cd8d53c6505505faeb38f8b0",
+  "training_windows": 60,
+  "test_metrics_used": false
+}

@@ -1,0 +1,566 @@
+{
+  "site": "r20400_c67200",
+  "kind": "full",
+  "seconds": 3.6732061999999814,
+  "safe_pixels": 1440000,
+  "pilot_pixels": 45000,
+  "evaluation_pixels": 1289700,
+  "pilot_centers": [
+    {
+      "row": 60,
+      "col": 60,
+      "stratum": [
+        0,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 0,
+      "col": 30,
+      "stratum": [
+        0,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 210,
+      "col": 420,
+      "stratum": [
+        0,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 120,
+      "col": 420,
+      "stratum": [
+        0,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 90,
+      "col": 480,
+      "stratum": [
+        0,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 180,
+      "col": 570,
+      "stratum": [
+        0,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 210,
+      "col": 720,
+      "stratum": [
+        0,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 60,
+      "col": 780,
+      "stratum": [
+        0,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 60,
+      "col": 1020,
+      "stratum": [
+        0,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 30,
+      "col": 1050,
+      "stratum": [
+        0,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 390,
+      "col": 150,
+      "stratum": [
+        1,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 420,
+      "col": 90,
+      "stratum": [
+        1,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 420,
+      "col": 360,
+      "stratum": [
+        1,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 360,
+      "col": 270,
+      "stratum": [
+        1,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 390,
+      "col": 510,
+      "stratum": [
+        1,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 360,
+      "col": 630,
+      "stratum": [
+        1,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 240,
+      "col": 810,
+      "stratum": [
+        1,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 420,
+      "col": 900,
+      "stratum": [
+        1,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 240,
+      "col": 1170,
+      "stratum": [
+        1,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 390,
+      "col": 1050,
+      "stratum": [
+        1,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 540,
+      "col": 0,
+      "stratum": [
+        2,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 600,
+      "col": 210,
+      "stratum": [
+        2,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 570,
+      "col": 450,
+      "stratum": [
+        2,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 600,
+      "col": 450,
+      "stratum": [
+        2,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 660,
+      "col": 690,
+      "stratum": [
+        2,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 630,
+      "col": 540,
+      "stratum": [
+        2,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 480,
+      "col": 930,
+      "stratum": [
+        2,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 480,
+      "col": 720,
+      "stratum": [
+        2,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 570,
+      "col": 1080,
+      "stratum": [
+        2,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 600,
+      "col": 1140,
+      "stratum": [
+        2,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 810,
+      "col": 90,
+      "stratum": [
+        3,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 720,
+      "col": 210,
+      "stratum": [
+        3,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 870,
+      "col": 330,
+      "stratum": [
+        3,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 750,
+      "col": 360,
+      "stratum": [
+        3,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 930,
+      "col": 600,
+      "stratum": [
+        3,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 780,
+      "col": 570,
+      "stratum": [
+        3,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 840,
+      "col": 900,
+      "stratum": [
+        3,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 810,
+      "col": 900,
+      "stratum": [
+        3,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 870,
+      "col": 990,
+      "stratum": [
+        3,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 810,
+      "col": 1050,
+      "stratum": [
+        3,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 1080,
+      "col": 210,
+      "stratum": [
+        4,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 990,
+      "col": 0,
+      "stratum": [
+        4,
+        0
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 960,
+      "col": 300,
+      "stratum": [
+        4,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 960,
+      "col": 450,
+      "stratum": [
+        4,
+        1
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 1020,
+      "col": 480,
+      "stratum": [
+        4,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 1110,
+      "col": 570,
+      "stratum": [
+        4,
+        2
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 1140,
+      "col": 810,
+      "stratum": [
+        4,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 960,
+      "col": 840,
+      "stratum": [
+        4,
+        3
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 1110,
+      "col": 1050,
+      "stratum": [
+        4,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    },
+    {
+      "row": 960,
+      "col": 1080,
+      "stratum": [
+        4,
+        4
+      ],
+      "eligible": 64,
+      "chosen": 2,
+      "inverse_probability": 32.0
+    }
+  ],
+  "source_window_sha256": {
+    "H2010": "d236b0d2a807d3e3f9eb46f6dd299ac83602aa26f9f076a716ff9076c5a79c38",
+    "H2020": "97c1941de1bb34e74c1cb49279608316ce8ad19525911f81974e0865effbafd1",
+    "W2010": "d85c52a54a7999c0cce7bee6e398eb848383f69761f43f66d1b1e4d8dff75c4d",
+    "W2020": "fe791800b1330972c133cfa1c1827e11f7f4fbfe48baf83c5d24dd684889ab50"
+  }
+}

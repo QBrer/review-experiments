@@ -1,0 +1,28 @@
+{
+  "site": "r24000_c74400",
+  "transform": [
+    0.000269494585235856,
+    0.0,
+    107.7854373434217,
+    0.0,
+    -0.00026949458523585604,
+    46.95485006939899,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "CRS": "EPSG:4326",
+  "parameter_sha256": "75f703515d833ec98ce34166bcf2e44f9458df57eae1f594f314b6b0d5af6987",
+  "raw_sha256": {
+    "H2000": "5ab1fa414d2d92746146725c1fa30607e835630eae9fa9169aced2d96d6620ed",
+    "H2010": "651e6a38ca8daa000b82cf756391d3a580ece161f977303e78309fa263af69eb",
+    "H2015": "9688ac8d0e52939968ca9695b44ff883ecc2804fa2d0e544aa58c67710e94d3f",
+    "H2020": "752d645d00b30c970091b89b1a9c8d82c406db925774ac4dec1c3ff14ca7de86",
+    "W2020": "3259361b969e5d5b4fb979dcd62f3498e78123f55b257979dba5fddb09d01543"
+  },
+  "task": "SL_change",
+  "strategy": "Proposed",
+  "scale": 3,
+  "start_year": 2000,
+  "end_year": 2020
+}

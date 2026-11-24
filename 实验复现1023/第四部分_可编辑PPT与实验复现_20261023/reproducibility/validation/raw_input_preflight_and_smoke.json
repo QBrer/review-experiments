@@ -1,0 +1,81 @@
+{
+  "rasters": [
+    {
+      "key": "H2010",
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif",
+      "bytes": 8518665313,
+      "shape": [
+        59672,
+        142273
+      ],
+      "crs": "EPSG:4326"
+    },
+    {
+      "key": "H2020",
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2020.tif",
+      "bytes": 8500424065,
+      "shape": [
+        59534,
+        142273
+      ],
+      "crs": "EPSG:4326"
+    },
+    {
+      "key": "W2010",
+      "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2010.tif",
+      "bytes": 516015029,
+      "shape": [
+        59873,
+        142221
+      ],
+      "crs": "EPSG:4326"
+    },
+    {
+      "key": "W2020",
+      "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2020.tif",
+      "bytes": 504586517,
+      "shape": [
+        59873,
+        142221
+      ],
+      "crs": "EPSG:4326"
+    },
+    {
+      "key": "H2000",
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2000.tif",
+      "bytes": 8500424065,
+      "shape": [
+        59534,
+        142273
+      ],
+      "crs": "EPSG:4326"
+    },
+    {
+      "key": "H2015",
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2015.tif",
+      "bytes": 8500424065,
+      "shape": [
+        59534,
+        142273
+      ],
+      "crs": "EPSG:4326"
+    }
+  ],
+  "full_raster_sha256_recomputed": false,
+  "raw_window_smoke_check": {
+    "site": "r44400_c74400",
+    "dates": 2,
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        12,
+        -12
+      ]
+    ],
+    "raw_area_histograms_match_cache": true,
+    "safe_coverage": 1.0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-10-19T08:54:10.760162+00:00",
+  "passed": true,
+  "regions": 24,
+  "same_task_difference_zero": true,
+  "raw_difference_decomposition_verified": true,
+  "signed_integer_roundtrip_verified": true,
+  "comments1_2": "completed in review_multiscale_order",
+  "comment3": "same-input Han2010/Han2020 direct subtraction completed per user correction"
+}

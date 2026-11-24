@@ -1,0 +1,27 @@
+{
+  "created": "2026-10-19T08:17:07.516396+00:00",
+  "purpose": "paper presentation and five-step task walkthrough within the existing24 selected regions",
+  "mask": "same five-input common legal-code mask as Experiments1/2",
+  "years_for_display": [
+    2010,
+    2020
+  ],
+  "scales": [
+    1,
+    3,
+    10,
+    30
+  ],
+  "label_map": {
+    "1": "SD",
+    "2": "SL",
+    "3": "Others"
+  },
+  "selection_sha256": "5ab1ae25c0833f8312de8439efdb777aa6286bd65db50613719148155ff90a6e",
+  "illustrated_examples": "H01 and L01, first selected in each group; no outcome selection",
+  "protected": {
+    "E:\\数据对齐实验数据2\\新-实验方案\\selection\\selected_regions.csv": "5ab1ae25c0833f8312de8439efdb777aa6286bd65db50613719148155ff90a6e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_1\\coupling.csv": "0efc66340461b35b8f3139b900962c00f7230c886c088a6c00c23c85832c550e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_2\\order.csv": "6c56d5adc0605c8d574b0a810c45295f571a20b9c00630901fbaad124131ec3a"
+  }
+}

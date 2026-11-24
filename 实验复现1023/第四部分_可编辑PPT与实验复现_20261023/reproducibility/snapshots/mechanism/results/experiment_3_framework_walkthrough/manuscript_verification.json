@@ -1,0 +1,14 @@
+{
+  "time": "2026-10-19T07:44:55.276200+00:00",
+  "experiments1_2_text_identical": true,
+  "original_source_unchanged": true,
+  "prior_sections_and_references_preserved": true,
+  "inserted_figures": 5,
+  "inserted_tables": 3,
+  "outputs": [
+    "E:\\数据对齐实验数据2\\新-实验方案\\reports\\4.5_前两实验保留_第三部分框架运行示例.md",
+    "E:\\数据对齐实验数据2\\新-实验方案\\reports\\4.5_第三部分框架运行示例版.docx",
+    "E:\\数据对齐实验数据2\\新-实验方案\\reports\\第四部分_实验1与2保留_实验3运行示例版.docx"
+  ],
+  "scope": "Only third experiment converted to walkthrough; introduction,methods overview and conclusion adjusted for coherence"
+}

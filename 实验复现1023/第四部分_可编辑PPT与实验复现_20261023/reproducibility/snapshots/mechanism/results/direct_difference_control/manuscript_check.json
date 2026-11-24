@@ -1,0 +1,9 @@
+{
+  "time": "2026-10-19T08:53:14.222668+00:00",
+  "passed": true,
+  "source_unchanged": true,
+  "figures_added": 7,
+  "tables_added": 4,
+  "control_inputs": "same Han2010/Han2020 as experiment",
+  "main_exp1_2_results_unchanged": true
+}

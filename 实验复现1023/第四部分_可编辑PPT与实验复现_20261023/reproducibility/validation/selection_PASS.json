@@ -1,0 +1,13 @@
+{
+  "mode": "selection",
+  "status": "PASS",
+  "outputs": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164610_selection_de4348",
+  "comparisons": [
+    {
+      "selection_geometry_exactly_reproduced": true,
+      "windows": 163
+    }
+  ],
+  "original_snapshots_unchanged": true,
+  "raw_raster_metrics_recomputed": false
+}

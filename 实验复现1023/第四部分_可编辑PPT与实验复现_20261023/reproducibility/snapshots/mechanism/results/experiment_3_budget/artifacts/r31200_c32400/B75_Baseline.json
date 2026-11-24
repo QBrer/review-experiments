@@ -1,0 +1,34 @@
+{
+  "site": "r31200_c32400",
+  "budget": "B75",
+  "K": 1200,
+  "grid_shape": [
+    1200,
+    1200
+  ],
+  "factor": 30,
+  "years": [
+    2010,
+    2020
+  ],
+  "CRS": "EPSG:4326",
+  "transform": [
+    0.000269494585235856,
+    0.0,
+    96.46666476351575,
+    0.0,
+    -0.00026949458523585604,
+    45.01448905570082,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "native_codes": [
+    1,
+    2,
+    3
+  ],
+  "nodata": 255,
+  "encoding": "coarse+full fine patches, two epochs",
+  "design_sha256": "3b4a8138c47f2ac92bc16be61ae11a6da247c578f07c92935f9f7f944ef2b0a0"
+}

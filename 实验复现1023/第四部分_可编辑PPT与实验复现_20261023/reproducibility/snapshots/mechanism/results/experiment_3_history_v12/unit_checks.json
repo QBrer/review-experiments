@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "time": "2026-10-16T16:13:10.035919+00:00",
+  "checks": [
+    "equal entropy distinct history task loss",
+    "tie is abstention not nonSL",
+    "deterministic tied ranking"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "site": "r22800_c31200",
+  "origins": {
+    "2000": [
+      22800,
+      31200
+    ],
+    "2010": [
+      22919,
+      31200
+    ]
+  },
+  "coverage": 1.0,
+  "array_sha256": {
+    "2000": "4aa28de8860b8fc3b18f86dbaa7678c1685dc6c6fa0ceab60d84e8650d207ccd",
+    "2010": "16b9c75723cae28b13bfbe719c4bbd69d47844113004ed15fc25a382e61c586a"
+  },
+  "domain_sha256": "26214137c25aa6ad9bdb6a81976afb0cdbd22b76902a3ee2f707655f1f80a700"
+}

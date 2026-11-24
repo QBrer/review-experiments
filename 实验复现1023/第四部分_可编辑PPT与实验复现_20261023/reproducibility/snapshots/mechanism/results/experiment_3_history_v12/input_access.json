@@ -1,0 +1,9 @@
+{
+  "phase": "history",
+  "opened_inputs": {
+    "2000": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2000.tif",
+    "2010": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif"
+  },
+  "test_opened": false,
+  "time": "2026-10-16T16:13:10.135937+00:00"
+}

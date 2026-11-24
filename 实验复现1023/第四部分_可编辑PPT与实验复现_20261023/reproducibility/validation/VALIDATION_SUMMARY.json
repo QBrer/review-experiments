@@ -1,0 +1,23 @@
+{
+  "passed": [
+    "statistics and bootstrap CI reproduction",
+    "cached v4 training/selection/prediction",
+    "cached v5 calibration and 21630 predictions",
+    "sampling geometry reconstruction",
+    "all computed figure rebuilding",
+    "six raster metadata checks and one-window raw/cache histogram smoke test"
+  ],
+  "not_run_this_turn": [
+    "complete raw-raster selection scan",
+    "complete raw-raster mechanism and cross-product reruns"
+  ],
+  "snapshots": 1973,
+  "tested_commands": [
+    "reproduce.py verify",
+    "reproduce.py cached",
+    "reproduce.py selection",
+    "reproduce.py preflight",
+    "rebuild_figures.py"
+  ],
+  "all_execution_outputs_in_fresh_directories": true
+}

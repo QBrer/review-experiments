@@ -1,0 +1,183 @@
+{
+  "basic": [
+    {
+      "column": "x00",
+      "name": "H2010_entropy"
+    },
+    {
+      "column": "x01",
+      "name": "W2010_entropy"
+    },
+    {
+      "column": "x02",
+      "name": "H2010_boundary_area_fraction"
+    },
+    {
+      "column": "x03",
+      "name": "W2010_boundary_area_fraction"
+    },
+    {
+      "column": "x04",
+      "name": "H2020_entropy"
+    },
+    {
+      "column": "x05",
+      "name": "W2020_entropy"
+    },
+    {
+      "column": "x06",
+      "name": "H2020_boundary_area_fraction"
+    },
+    {
+      "column": "x07",
+      "name": "W2020_boundary_area_fraction"
+    },
+    {
+      "column": "x08",
+      "name": "safe_coverage"
+    },
+    {
+      "column": "x09",
+      "name": "A1_2010_peak_prominence"
+    },
+    {
+      "column": "x10",
+      "name": "A1_2010_peak_width"
+    },
+    {
+      "column": "x11",
+      "name": "A1_2010_row_shift"
+    },
+    {
+      "column": "x12",
+      "name": "A1_2010_col_shift"
+    },
+    {
+      "column": "x13",
+      "name": "A1_2020_peak_prominence"
+    },
+    {
+      "column": "x14",
+      "name": "A1_2020_peak_width"
+    },
+    {
+      "column": "x15",
+      "name": "A1_2020_row_shift"
+    },
+    {
+      "column": "x16",
+      "name": "A1_2020_col_shift"
+    },
+    {
+      "column": "x17",
+      "name": "A1_temporal_shift_diff_row"
+    },
+    {
+      "column": "x18",
+      "name": "A1_temporal_shift_diff_col"
+    },
+    {
+      "column": "x19",
+      "name": "A1_temporal_shift_diff_L1"
+    },
+    {
+      "column": "x20",
+      "name": "A1_temporal_shift_diff_L2"
+    }
+  ],
+  "cross_dimensional": [
+    {
+      "column": "x21",
+      "name": "A2_2010_peak_prominence"
+    },
+    {
+      "column": "x22",
+      "name": "A2_2010_peak_width"
+    },
+    {
+      "column": "x23",
+      "name": "A2_2010_row_shift"
+    },
+    {
+      "column": "x24",
+      "name": "A2_2010_col_shift"
+    },
+    {
+      "column": "x25",
+      "name": "A2_2020_peak_prominence"
+    },
+    {
+      "column": "x26",
+      "name": "A2_2020_peak_width"
+    },
+    {
+      "column": "x27",
+      "name": "A2_2020_row_shift"
+    },
+    {
+      "column": "x28",
+      "name": "A2_2020_col_shift"
+    },
+    {
+      "column": "x29",
+      "name": "semantic_conditional_entropy_2010"
+    },
+    {
+      "column": "x30",
+      "name": "semantic_conditional_entropy_2020"
+    },
+    {
+      "column": "x31",
+      "name": "A1_A2_shift_diff_2010_row"
+    },
+    {
+      "column": "x32",
+      "name": "A1_A2_shift_diff_2010_col"
+    },
+    {
+      "column": "x33",
+      "name": "A1_A2_shift_diff_2010_L1"
+    },
+    {
+      "column": "x34",
+      "name": "A1_A2_shift_diff_2020_row"
+    },
+    {
+      "column": "x35",
+      "name": "A1_A2_shift_diff_2020_col"
+    },
+    {
+      "column": "x36",
+      "name": "A1_A2_shift_diff_2020_L1"
+    },
+    {
+      "column": "x37",
+      "name": "A2_temporal_shift_diff_L1"
+    },
+    {
+      "column": "x38",
+      "name": "H_raw_class_change_fraction"
+    },
+    {
+      "column": "x39",
+      "name": "W_raw_class_change_fraction"
+    },
+    {
+      "column": "x40",
+      "name": "A3_A1_total_shift_diff_L1"
+    },
+    {
+      "column": "x41",
+      "name": "A3_A2_total_shift_diff_L1"
+    }
+  ],
+  "normalization": "matching surfaces ddof0; training median fill and missing indicators",
+  "test_metadata_not_features": [
+    "site",
+    "case_id",
+    "phase",
+    "block",
+    "injected_d",
+    "truth"
+  ]
+}

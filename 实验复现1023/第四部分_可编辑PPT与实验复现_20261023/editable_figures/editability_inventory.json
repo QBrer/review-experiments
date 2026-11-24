@@ -1,0 +1,90 @@
+[
+  {
+    "figure": "Fig4_1",
+    "slide": 1,
+    "texts": 42,
+    "paths": 15,
+    "raster_backgrounds": 0,
+    "manual_reconstruction": true
+  },
+  {
+    "figure": "Fig4_2",
+    "slide": 2,
+    "paths": 250,
+    "texts": 68,
+    "raster_backgrounds": 3,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "Fig4_3",
+    "slide": 3,
+    "paths": 285,
+    "texts": 65,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "Fig4_4",
+    "slide": 4,
+    "paths": 85,
+    "texts": 37,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "Fig4_5",
+    "slide": 5,
+    "paths": 209,
+    "texts": 46,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "Fig4_6",
+    "slide": 6,
+    "paths": 283,
+    "texts": 70,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "Fig4_7",
+    "slide": 7,
+    "paths": 40,
+    "texts": 44,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "Fig4_8",
+    "slide": 8,
+    "paths": 223,
+    "texts": 50,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "FigS1",
+    "slide": 9,
+    "paths": 155,
+    "texts": 161,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 84
+  },
+  {
+    "figure": "FigS2",
+    "slide": 10,
+    "paths": 256,
+    "texts": 25,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  },
+  {
+    "figure": "FigS3",
+    "slide": 11,
+    "paths": 78,
+    "texts": 35,
+    "raster_backgrounds": 0,
+    "editable_heatmap_cells": 0
+  }
+]

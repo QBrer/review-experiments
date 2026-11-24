@@ -1,0 +1,28 @@
+{
+  "site": "B2",
+  "transform": [
+    0.000269494585235856,
+    0.0,
+    108.85856478183088,
+    0.0,
+    -0.00026949458523585604,
+    39.14408850550817,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "CRS": "EPSG:4326",
+  "parameter_sha256": "75f703515d833ec98ce34166bcf2e44f9458df57eae1f594f314b6b0d5af6987",
+  "raw_sha256": {
+    "H2000": "35c635f02c3679981e428343f961c800337e67aa5d15450b01eec81ce348eab8",
+    "H2010": "5b6c32e0110a17f814eccd301f2ab10fed5e9741e6c9839d17148989e696130a",
+    "H2015": "d953dce1c2d4cf2fd853ab87c6e327edf2be36f083c41fdf3d4bebbe34ed1cca",
+    "H2020": "adbf9f9cb252f9b274aceff9f0541dfdd33da34a10afb684a1f55b4299b3e44d",
+    "W2020": "601283352074bc9e95a96d00eec06e636cea78451e2f6c059a6215e1153a68b8"
+  },
+  "task": "SL_change",
+  "strategy": "Proposed",
+  "scale": 3,
+  "start_year": 2015,
+  "end_year": 2020
+}

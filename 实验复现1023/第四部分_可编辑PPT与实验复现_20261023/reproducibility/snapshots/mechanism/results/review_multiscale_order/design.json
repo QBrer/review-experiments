@@ -1,0 +1,20 @@
+{
+  "time": "2026-10-19T08:38:16.330833+00:00",
+  "purpose": "User-requested three-scale order and red disagreement maps; extend descriptive phase visualization to3/10",
+  "years": [
+    2020
+  ],
+  "scales": [
+    3,
+    10,
+    30
+  ],
+  "phase_rule": "0,floor(f/3),floor(2f/3) both axes",
+  "common_core": "[30:n-30) all scales and phases",
+  "no_new_significance": true,
+  "protected": {
+    "E:\\数据对齐实验数据2\\新-实验方案\\selection\\selected_regions.csv": "5ab1ae25c0833f8312de8439efdb777aa6286bd65db50613719148155ff90a6e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_2\\order.csv": "6c56d5adc0605c8d574b0a810c45295f571a20b9c00630901fbaad124131ec3a",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_2\\phase.csv": "b42fccf841959ca35d61d787b530897b457fe8506be885726c164182e8c60b7e"
+  }
+}

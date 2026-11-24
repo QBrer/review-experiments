@@ -1,0 +1,23 @@
+{
+  "time": "2026-10-16T16:38:04.889246+00:00",
+  "passed": true,
+  "cases": [
+    {
+      "case": "A",
+      "Baseline": 0.0,
+      "Proposed": 0.7878787878787878
+    },
+    {
+      "case": "B",
+      "Baseline": 0.4,
+      "Proposed": 0.0
+    }
+  ],
+  "checks": [
+    "9 homogeneous transitions",
+    "zero valid area",
+    "ties",
+    "joint marginals",
+    "opposite directions of F1 response"
+  ]
+}

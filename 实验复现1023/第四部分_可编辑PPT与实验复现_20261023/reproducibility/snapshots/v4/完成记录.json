@@ -1,0 +1,49 @@
+{
+  "status": "COMPLETE",
+  "date": "2026-10-22",
+  "computation_code_unchanged_since_freeze": true,
+  "independent_audit_passed": true,
+  "formal_success": false,
+  "output_summary": {
+    "primary": {
+      "comparison": "single_best minus full",
+      "metric": "E_pixels",
+      "n_blocks": 20,
+      "mean": 0.0,
+      "median": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "positive": 0,
+      "negative": 0,
+      "zero": 20,
+      "meets_0_5_practical_criterion": false
+    },
+    "single_best_candidate": 3,
+    "final_candidate_parameters": {
+      "g1": 0,
+      "g2": 0,
+      "g3": 0.5,
+      "lam": 0.25
+    },
+    "test_windows": 40,
+    "test_blocks": 20,
+    "scenarios": 280,
+    "candidate_predictions": 1120,
+    "task_rows": 3360,
+    "all_choices_frozen_before_test_full_matching": true,
+    "positive_reference_change_windows": 40,
+    "unique_output_tifs": 582,
+    "protected_files_unchanged": 5006,
+    "data_issues_excluded": [],
+    "no_test_parameter_retuning": true
+  },
+  "final_script_sha256": {
+    "audit_results.py": "5267e6eedde36b183b4265932158a73e7c86490fa1fceb9e4e32863efdde5ad9",
+    "engine.py": "aedd5f75c4667e72289c639ac4c8a2ce5a556e2cbee5dbb53dc408fcc8aa2647",
+    "finish.py": "d7b681a26a13e48c71d84b64eba8a7661b50aaba1756e9bed2b8ab946e23e3fc",
+    "independent_qc.py": "909dc7ab43458af047dab7a676e994997a8858b88b1740bd77821b93f2cf0b10",
+    "render_report.py": "5acd1c53e2ecf243fc943b3793e2af48d7782eb03f88238151e698737eb3c08d",
+    "run.py": "5b3c06798b042b05699d913c3cedf5e85c3ad6dcdd7e3e9dc8afca344b9b7514",
+    "write_feature_schema.py": "b85c4f5e580aed11aaed1ab852ae26bb23f46d8dc759001850d5c61a638f76b5"
+  }
+}

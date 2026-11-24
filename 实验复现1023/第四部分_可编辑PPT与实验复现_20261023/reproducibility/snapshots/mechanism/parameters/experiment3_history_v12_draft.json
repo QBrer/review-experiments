@@ -1,0 +1,72 @@
+{
+  "version": "history-E3-v1.2-DRAFT",
+  "date": "2026-10-17",
+  "status": "DRAFT_NOT_FROZEN",
+  "execution_allowed": false,
+  "historical_scores_computed": false,
+  "evaluation_executed": false,
+  "scope": "Only revised experiment3; preserve experiment1/2, selection and prior experiment3 results",
+  "plan_sha256": "7da2f46485b10a481251bc49201447759204623994e3eef1b19c386f9201dabd",
+  "decision_years": [
+    2000,
+    2010
+  ],
+  "test_years": [
+    2010,
+    2020
+  ],
+  "primary_scale": 30,
+  "secondary_scales": [
+    3,
+    10
+  ],
+  "windows": "frozen12High+12Low; B2 descriptive only",
+  "historical_mask": "legal Han2000 AND legal Han2010 only; no Wang2020 or old5-input mask",
+  "test_mask": "historical_mask AND legal Han2020; no reallocation after test data read",
+  "baseline_score": "max_t historical three-class entropy",
+  "proposed_score": "historical binary-SL coarse-versus-native FP+FN valid area / historical block valid area",
+  "tie_rule": "relative class area gap<=1e-10 ->255; no forced nonSL",
+  "historical_abstention_loss": "reference-positive area / historical block valid area; report unknown separately",
+  "natural_budget": "count positive-history-area cells with min historical max-class-purity<0.90",
+  "fixed_budgets": [
+    0.1,
+    0.25,
+    0.5,
+    0.75
+  ],
+  "K_fixed": "floor(B*N_history_valid_cells)",
+  "ranking_ties": "exact ties -> ascending row,col; no secondary score",
+  "QC": {
+    "status": "PROPOSED_PENDING_CONFIRMATION",
+    "J": "intersection/union",
+    "D": "1-J, redundant",
+    "D_norm": "(K-intersection)/min(K,N-K); NA if K=0 or K=N",
+    "rho": "Spearman(H,R); constant score ->NA",
+    "proposed_natural_fraction_interval_inclusive": [
+      0.05,
+      0.95
+    ],
+    "proposed_min_Dnorm": 0.1,
+    "proposed_min_distinct_windows_per_group": 8,
+    "proposed_min_group_median_Dnorm": 0.1,
+    "primary_failure": "stop all test evaluation for this version; no fallback to secondary scale",
+    "secondary_failure": "skip failed secondary scale test evaluation; retain QC, do not drop individual windows",
+    "B2_participates_in_gate": false
+  },
+  "statistics": {
+    "primary": "two groupwise natural30 paired binary-change F1 comparisons; exact two-sided sign-flip mean; Holm2",
+    "bootstrap_replicates": 10000,
+    "proposed_seed": 20261017,
+    "minimum_finite_pairs": 5,
+    "all_zero_p": 1,
+    "secondary": "descriptive estimates and95percent window-bootstrap intervals; no secondary p-values",
+    "group_difference": "secondary direct High meanDelta minus Low meanDelta with groupwise window-bootstrap CI"
+  },
+  "cost": "same full two-epoch fxf uint8 Fine blocks, uint32 indices, coarse labels, shared masks/areas and equal metadata; exact logical equality, actual compressed bytes separately",
+  "disclosure": "previously selected using2020 and previously evaluated windows; algorithmic temporal split only, not fresh blind prospective validation",
+  "remaining_decisions": [
+    "Confirm proposed numeric QC gates before score calculation",
+    "Confirm proposed statistical seed20261017"
+  ],
+  "new_result_directory": "results/experiment_3_history_v12"
+}

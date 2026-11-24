@@ -1,0 +1,11 @@
+{
+  "time": "2026-10-16T16:15:48.748677+00:00",
+  "passed": true,
+  "independent_cells_checked": 2302,
+  "old_files_unchanged": true,
+  "decision_files_verified": 72,
+  "test_data_opened": false,
+  "test_F1_computed": false,
+  "scientific_gate_passed": false,
+  "execution_status": "STOPPED_PRIMARY_QC_FAILED"
+}

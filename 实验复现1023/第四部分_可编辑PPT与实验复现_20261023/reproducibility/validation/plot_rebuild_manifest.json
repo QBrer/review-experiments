@@ -1,0 +1,74 @@
+[
+  {
+    "figure": "Fig4_2",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\figure_data\\product_display_samples.npz",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\sampling_audit\\all_163_windows_roles.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\source_data\\Wang_product_legend_verified.csv",
+      "https://www.nature.com/articles/s41597-025-05648-8.pdf, Table 2"
+    ]
+  },
+  {
+    "figure": "Fig4_7",
+    "sources": [
+      "Executed code: experiment_v4_runtime/engine.py; experiment_ablation_v5_runtime/ablation.py; original five-stage framework"
+    ]
+  },
+  {
+    "figure": "Fig4_3",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\sampling_audit\\sampling_audit.json",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\sampling_audit\\all_163_windows_roles.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\mechanism\\selection\\candidates.csv"
+    ]
+  },
+  {
+    "figure": "Fig4_4",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\figure_data\\factor_decomposition_by_window.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164502_figures_8325f2\\figure_data\\factor_decomposition_summary.csv"
+    ]
+  },
+  {
+    "figure": "Fig4_6",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\mechanism\\results\\experiment_2\\order.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\mechanism\\tables\\Table_2_Noncommutativity.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\mechanism\\results\\review_multiscale_order\\phase_all_scales.csv"
+    ]
+  },
+  {
+    "figure": "Fig4_5",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\mechanism\\tables\\Table_1_Coupling.csv"
+    ]
+  },
+  {
+    "figure": "Fig4_8",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v5\\block_results.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v5\\task_metrics.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v5\\paired_contrasts.csv"
+    ]
+  },
+  {
+    "figure": "FigS1",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v5\\all_common_parameter_results.csv"
+    ]
+  },
+  {
+    "figure": "FigS2",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v5\\all_alignment_metrics.csv"
+    ]
+  },
+  {
+    "figure": "FigS3",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v4\\method_summary.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v4\\strategy_choice_counts.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\snapshots\\v5\\paired_contrasts.csv"
+    ]
+  }
+]

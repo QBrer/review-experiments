@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-22",
+  "status": "DESIGN_PREFLIGHT_ONLY",
+  "raw_matching_or_performance_computed": false,
+  "inputs": {
+    "H2010": {
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif",
+      "shape": [
+        59672,
+        142273
+      ],
+      "transform": [
+        0.000269494585235856,
+        0.0,
+        87.73504020187409,
+        0.0,
+        -0.00026949458523585593,
+        53.454789970702606,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "crs": "EPSG:4326",
+      "offset_row_col": [
+        119,
+        0
+      ],
+      "bytes": 8518665313,
+      "mtime_ns": 1758877264000000000
+    },
+    "H2020": {
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2020.tif",
+      "shape": [
+        59534,
+        142273
+      ],
+      "transform": [
+        0.000269494585235856,
+        0.0,
+        87.73504020187401,
+        0.0,
+        -0.00026949458523585604,
+        53.42272011505953,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "crs": "EPSG:4326",
+      "offset_row_col": [
+        0,
+        0
+      ],
+      "bytes": 8500424065,
+      "mtime_ns": 1758878461000000000
+    },
+    "W2010": {
+      "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2010.tif",
+      "shape": [
+        59873,
+        142221
+      ],
+      "transform": [
+        0.00026949458523585636,
+        0.0,
+        87.74905392030628,
+        0.0,
+        -0.00026949458523585636,
+        53.51084484443166,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "crs": "EPSG:4326",
+      "offset_row_col": [
+        327,
+        -52
+      ],
+      "bytes": 516015029,
+      "mtime_ns": 1741050683963310400
+    },
+    "W2020": {
+      "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2020.tif",
+      "shape": [
+        59873,
+        142221
+      ],
+      "transform": [
+        0.00026949458523585647,
+        0.0,
+        87.7490539203063,
+        0.0,
+        -0.00026949458523585636,
+        53.51084484443166,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "crs": "EPSG:4326",
+      "offset_row_col": [
+        327,
+        -52
+      ],
+      "bytes": 504586517,
+      "mtime_ns": 1741049733613686500
+    }
+  },
+  "windows": 100,
+  "all_halo_available": true,
+  "all_safe_coverage_pass": true,
+  "min_four_input_coverage": 0.9717194444444445,
+  "min_safe_domain_coverage": 0.9607770833333333,
+  "counts_by_role": {
+    "proposed_test": 40,
+    "proposed_new_development": 36,
+    "existing_development": 24
+  },
+  "source_split_sha256": "30dece9afdc10021fc52aa72467c062a12a6f579722d624690c903c5dd20346c"
+}

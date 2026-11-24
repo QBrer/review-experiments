@@ -1,0 +1,52 @@
+{
+  "status": "DESIGN_ONLY_NOT_FIELD_RESULTS",
+  "formal_experiment_executed": false,
+  "cases": {
+    "A": {
+      "transition_mass": [
+        [
+          0.25,
+          0.35
+        ],
+        [
+          0.3,
+          0.1
+        ]
+      ],
+      "baseline_pair": [
+        0,
+        0
+      ],
+      "proposed_pair": [
+        0,
+        1
+      ],
+      "reference_change_fraction": 0.6499999999999999,
+      "baseline_F1": 0,
+      "proposed_F1": 0.7878787878787878
+    },
+    "B": {
+      "transition_mass": [
+        [
+          0.4,
+          0.2
+        ],
+        [
+          0.05,
+          0.35
+        ]
+      ],
+      "baseline_pair": [
+        0,
+        1
+      ],
+      "proposed_pair": [
+        0,
+        0
+      ],
+      "reference_change_fraction": 0.25,
+      "baseline_F1": 0.4,
+      "proposed_F1": 0
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "slides": 11,
+  "source": "All eight main figures and three supplementary figures from revision7",
+  "only_raster_content": "Three classified/background map images on slide 2",
+  "charts": "Native shapes, not embedded Office chart/data workbooks",
+  "heatmap_cells_editable": 84,
+  "PowerPoint_export_confirmed": true,
+  "inventory": [
+    {
+      "slide": 1,
+      "figure": "Fig4_1",
+      "editable_text_shapes": 39,
+      "editable_custom_paths": 0,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": false
+    },
+    {
+      "slide": 2,
+      "figure": "Fig4_2",
+      "editable_text_shapes": 69,
+      "editable_custom_paths": 250,
+      "raster_backgrounds": 3,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 3,
+      "figure": "Fig4_3",
+      "editable_text_shapes": 66,
+      "editable_custom_paths": 285,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 4,
+      "figure": "Fig4_4",
+      "editable_text_shapes": 38,
+      "editable_custom_paths": 85,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 5,
+      "figure": "Fig4_5",
+      "editable_text_shapes": 47,
+      "editable_custom_paths": 209,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 6,
+      "figure": "Fig4_6",
+      "editable_text_shapes": 71,
+      "editable_custom_paths": 283,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 7,
+      "figure": "Fig4_7",
+      "editable_text_shapes": 45,
+      "editable_custom_paths": 40,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 8,
+      "figure": "Fig4_8",
+      "editable_text_shapes": 51,
+      "editable_custom_paths": 223,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 9,
+      "figure": "FigS1",
+      "editable_text_shapes": 160,
+      "editable_custom_paths": 155,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 10,
+      "figure": "FigS2",
+      "editable_text_shapes": 26,
+      "editable_custom_paths": 256,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    },
+    {
+      "slide": 11,
+      "figure": "FigS3",
+      "editable_text_shapes": 36,
+      "editable_custom_paths": 78,
+      "raster_backgrounds": 0,
+      "all_SVG_text_preserved": true
+    }
+  ]
+}

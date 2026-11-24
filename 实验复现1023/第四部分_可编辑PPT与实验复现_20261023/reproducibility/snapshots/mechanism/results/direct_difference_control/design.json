@@ -1,0 +1,14 @@
+{
+  "time": "2026-10-19T08:51:05.307315+00:00",
+  "authorization": "User correction: control must match experimental group",
+  "inputs": [
+    "Han2010",
+    "Han2020"
+  ],
+  "scope": "same24 regions and five-input valid mask as current walkthrough",
+  "raw_difference": "int16(Han2020)-int16(Han2010); diagnostic of original categorical-code changes",
+  "task_control": "int8(isSL2020)-int8(isSL2010), isSL=original code in21..24",
+  "experimental_reference": "saved region_walkthrough_24 native SL directional change",
+  "no_changes_to_framework": true,
+  "no_new_p_values": true
+}

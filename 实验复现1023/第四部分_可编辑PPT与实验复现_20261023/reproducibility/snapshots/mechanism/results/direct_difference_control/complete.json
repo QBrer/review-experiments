@@ -1,0 +1,9 @@
+{
+  "time": "2026-10-19T08:52:38.856711+00:00",
+  "regions": 24,
+  "SL_disagreement_pixels": 0,
+  "same_inputs_verified": true,
+  "mask_matches_saved_experimental_mask": true,
+  "raw_code_delta_dtype": "int16",
+  "no_new_significance": true
+}

@@ -1,0 +1,13 @@
+{
+  "time": "2026-10-19T08:19:08.709834+00:00",
+  "regions": 24,
+  "pages": 24,
+  "classification_panels": 192,
+  "outputs_per_region": 16,
+  "all_checks_passed": true,
+  "existing_scientific_results_unchanged": true,
+  "example_ids": [
+    "H01",
+    "L01"
+  ]
+}

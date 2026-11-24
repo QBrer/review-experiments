@@ -1,0 +1,360 @@
+{
+  "passed": true,
+  "frozen_code_unchanged": true,
+  "all_geometric_rows": 21630,
+  "max_error_difference": 8.881784197001252e-16,
+  "lambda_zero_identities": [
+    {
+      "left": "G",
+      "right": "GT",
+      "rows": 2163,
+      "exact_match": true
+    },
+    {
+      "left": "GS",
+      "right": "GST",
+      "rows": 2163,
+      "exact_match": true
+    }
+  ],
+  "GST_matches_v4_rows": 280,
+  "new_old_min_center_distance_m": 100866.48085874387,
+  "saved_raster_checks": [
+    {
+      "site": "r13200_c28800",
+      "case_id": "51cc02e85849fa95594f",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "51cc02e85849fa95594f",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "51cc02e85849fa95594f",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "51cc02e85849fa95594f",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "a2455026bded693f6fe2",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "a2455026bded693f6fe2",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "a2455026bded693f6fe2",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "a2455026bded693f6fe2",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "cf433c8382ce4eaecf3c",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "cf433c8382ce4eaecf3c",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "cf433c8382ce4eaecf3c",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r13200_c28800",
+      "case_id": "cf433c8382ce4eaecf3c",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "1b02403923bbf540f2e9",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "1b02403923bbf540f2e9",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "1b02403923bbf540f2e9",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "1b02403923bbf540f2e9",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "ae43079650db09003333",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "ae43079650db09003333",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "ae43079650db09003333",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "ae43079650db09003333",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "6a4f7b17ff4b292c0c1c",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "6a4f7b17ff4b292c0c1c",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "6a4f7b17ff4b292c0c1c",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r19200_c30000",
+      "case_id": "6a4f7b17ff4b292c0c1c",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "2c6ba2097b6ae3717d57",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "2c6ba2097b6ae3717d57",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "2c6ba2097b6ae3717d57",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "2c6ba2097b6ae3717d57",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "b54f9302af6b58789b1a",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "b54f9302af6b58789b1a",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "b54f9302af6b58789b1a",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "b54f9302af6b58789b1a",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "60c4176f43e5a1726f28",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "60c4176f43e5a1726f28",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "60c4176f43e5a1726f28",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r28800_c123600",
+      "case_id": "60c4176f43e5a1726f28",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "eb83cb710c1977515d19",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "eb83cb710c1977515d19",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "eb83cb710c1977515d19",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "eb83cb710c1977515d19",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "7b10faf1bd57d64c7787",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "7b10faf1bd57d64c7787",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "7b10faf1bd57d64c7787",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "7b10faf1bd57d64c7787",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "3d508a683d38b42e275e",
+      "method": "G",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "3d508a683d38b42e275e",
+      "method": "GS",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "3d508a683d38b42e275e",
+      "method": "GT",
+      "F1_difference": 0.0,
+      "passed": true
+    },
+    {
+      "site": "r50400_c85200",
+      "case_id": "3d508a683d38b42e275e",
+      "method": "GST",
+      "F1_difference": 0.0,
+      "passed": true
+    }
+  ]
+}

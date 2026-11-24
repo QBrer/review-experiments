@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": [
+    "lambda_zero_identity",
+    "no_semantic_uses_only_geometry",
+    "GST_equals_v4",
+    "no_information_zero"
+  ]
+}

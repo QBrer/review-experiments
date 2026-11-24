@@ -1,0 +1,32 @@
+{
+  "status": "DESIGN_GEOMETRY_CHECK_ONLY_NOT_FROZEN",
+  "inputs": [
+    "selection/candidates.csv",
+    "selection/selected_regions.csv",
+    "parameters/frozen_parameters.json"
+  ],
+  "raster_or_new_performance_access": false,
+  "eligible_pool": 714,
+  "far_from_old25_count": 423,
+  "strict_new_block_candidates": 258,
+  "blocks_with_50km_pair": 22,
+  "proposed_test_blocks": 20,
+  "proposed_test_windows": 40,
+  "proposed_new_development_windows": 36,
+  "existing_development_windows": 24,
+  "development_candidates_after_test_buffer": 277,
+  "geometry_skipped_blocks": [
+    "(56, 25)"
+  ],
+  "seed": 20261021,
+  "projection": "EPSG:6933",
+  "tile_side_projected_m": 200000,
+  "grid_origin_xy": [
+    0,
+    0
+  ],
+  "test_old_buffer_geodesic_m": 100000,
+  "test_development_buffer_geodesic_m": 100000,
+  "minimum_window_center_distance_m": 50000,
+  "source_candidates_sha256": "898829a2cb7238ee351bce32523819f3ca8301e249e841cbf9188e2bc152e932"
+}

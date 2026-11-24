@@ -1,0 +1,84 @@
+[
+  {
+    "year": 2010,
+    "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif",
+    "row": 53102,
+    "col": 78382,
+    "width": 1020,
+    "height": 1020,
+    "crs": "EPSG:4326",
+    "transform": [
+      0.000269494585235856,
+      0.0,
+      87.73504020187409,
+      0.0,
+      -0.00026949458523585593,
+      53.454789970702606,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "window_transform": [
+      0.000269494585235856,
+      0.0,
+      108.85856478183095,
+      0.0,
+      -0.00026949458523585593,
+      39.144088505508186,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "grid_residual_pixels": 2.3283064365386963e-10,
+    "nodata": 0.0,
+    "classes": [
+      3,
+      21,
+      22,
+      23,
+      24
+    ],
+    "window_sha256": "5b6c32e0110a17f814eccd301f2ab10fed5e9741e6c9839d17148989e696130a"
+  },
+  {
+    "year": 2020,
+    "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2020.tif",
+    "row": 52983,
+    "col": 78382,
+    "width": 1020,
+    "height": 1020,
+    "crs": "EPSG:4326",
+    "transform": [
+      0.000269494585235856,
+      0.0,
+      87.73504020187401,
+      0.0,
+      -0.00026949458523585604,
+      53.42272011505953,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "window_transform": [
+      0.000269494585235856,
+      0.0,
+      108.85856478183088,
+      0.0,
+      -0.00026949458523585604,
+      39.14408850550817,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "grid_residual_pixels": 5.820766091346741e-11,
+    "nodata": 0.0,
+    "classes": [
+      3,
+      21,
+      22,
+      23,
+      24
+    ],
+    "window_sha256": "adbf9f9cb252f9b274aceff9f0541dfdd33da34a10afb684a1f55b4299b3e44d"
+  }
+]

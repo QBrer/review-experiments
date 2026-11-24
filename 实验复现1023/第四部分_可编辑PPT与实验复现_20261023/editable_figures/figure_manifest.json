@@ -1,0 +1,204 @@
+[
+  {
+    "figure": "Fig4_1",
+    "sources": [
+      "User supplied codex-clipboard-c8a44cec-fe33-463d-8ad5-6142a89059d1.png"
+    ],
+    "png_pixels": [
+      987,
+      609
+    ],
+    "dpi": null,
+    "effective_dpi_at_16_8_cm": 149.225,
+    "sha256": "6e8050dc402f74d2f030e6c4d0bae0658a860c1bdcb082e8146082fccdcb87fc",
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ],
+    "note": "Original bitmap preserved. PDF/SVG wrap the original raster; not editable vector artwork. No claimed 600 dpi for this supplied image."
+  },
+  {
+    "figure": "Fig4_2",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023_revision7\\figure_data\\product_display_samples.npz",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023_revision7\\sampling_audit\\all_163_windows_roles.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023_revision7\\source_data\\Wang_product_legend_verified.csv",
+      "https://www.nature.com/articles/s41597-025-05648-8.pdf, Table 2"
+    ],
+    "png_pixels": [
+      4353,
+      4364
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "Fig4_3",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023_revision6\\sampling_audit\\sampling_audit.json",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023_revision6\\sampling_audit\\all_163_windows_roles.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\selection\\candidates.csv"
+    ],
+    "png_pixels": [
+      3857,
+      3710
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "Fig4_4",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023\\figure_data\\factor_decomposition_by_window.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\esr_section4_20261023\\figure_data\\factor_decomposition_summary.csv"
+    ],
+    "png_pixels": [
+      4485,
+      1846
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "Fig4_5",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\tables\\Table_1_Coupling.csv"
+    ],
+    "png_pixels": [
+      4365,
+      2865
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "Fig4_6",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\results\\experiment_2\\order.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\tables\\Table_2_Noncommutativity.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\results\\review_multiscale_order\\phase_all_scales.csv"
+    ],
+    "png_pixels": [
+      4485,
+      3225
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "Fig4_7",
+    "sources": [
+      "Executed code: experiment_v4_runtime/engine.py; experiment_ablation_v5_runtime/ablation.py; original five-stage framework"
+    ],
+    "png_pixels": [
+      3630,
+      3930
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "Fig4_8",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\block_results.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\task_metrics.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\paired_contrasts.csv"
+    ],
+    "png_pixels": [
+      4365,
+      3225
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "FigS1",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\all_common_parameter_results.csv"
+    ],
+    "png_pixels": [
+      4366,
+      2685
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "FigS2",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\all_alignment_metrics.csv"
+    ],
+    "png_pixels": [
+      4365,
+      1785
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  },
+  {
+    "figure": "FigS3",
+    "sources": [
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_v4_runtime\\method_summary.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_v4_runtime\\strategy_choice_counts.csv",
+      "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\paired_contrasts.csv"
+    ],
+    "png_pixels": [
+      4365,
+      1785
+    ],
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png",
+      "tif"
+    ]
+  }
+]

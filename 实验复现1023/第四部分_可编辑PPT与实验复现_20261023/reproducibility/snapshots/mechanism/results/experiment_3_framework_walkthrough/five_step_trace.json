@@ -1,0 +1,37 @@
+[
+  {
+    "step": 1,
+    "name": "Define the task",
+    "input": "B2; Han2010/2020; SL definition",
+    "decision": "separate composition totals from location-specific change",
+    "output": "area and native-location task contracts"
+  },
+  {
+    "step": 2,
+    "name": "Diagnose mismatches",
+    "input": "raster metadata and legal codes",
+    "decision": "2010 source row differs by119; coordinate-aligned windows, no resampling; hierarchical mapping",
+    "output": "input_metadata.json and common_valid.tif"
+  },
+  {
+    "step": 3,
+    "name": "Analyze constraints",
+    "input": "task contracts; spatial support; temporal pair",
+    "decision": "proportion sufficient for full-cell area; cannot infer within-cell change locations or gross turnover from proportions alone",
+    "output": "task-specific representation rules"
+  },
+  {
+    "step": 4,
+    "name": "Organize alignment",
+    "input": "common-mask mapped labels",
+    "decision": "area branch: sum class areas then proportions; location branch: preserve native paired positions then SL event coding",
+    "output": "30x30 proportions, native classes and directional changes"
+  },
+  {
+    "step": 5,
+    "name": "Validate alignment",
+    "input": "outputs and source conservation identities",
+    "decision": "grid, semantic mass, transition margins, expansion-contraction balance and raster roundtrip checked; no external truth",
+    "output": "validation.json; residual uncertainty explicitly retained"
+  }
+]

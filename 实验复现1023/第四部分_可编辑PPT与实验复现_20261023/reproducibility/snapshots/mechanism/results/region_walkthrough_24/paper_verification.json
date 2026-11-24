@@ -1,0 +1,19 @@
+{
+  "time": "2026-10-19T08:21:01.529793+00:00",
+  "source_unchanged": true,
+  "prior_sections_preserved": true,
+  "main_experiment_numbers_preserved": true,
+  "study_map_in_section451": true,
+  "no_historical_case_in_manuscript": true,
+  "figures": 5,
+  "tables": 3,
+  "example_regions": [
+    "H01",
+    "L01"
+  ],
+  "outputs": [
+    "E:\\数据对齐实验数据2\\新-实验方案\\reports\\4.5_定稿修订_24样区与框架示例.md",
+    "E:\\数据对齐实验数据2\\新-实验方案\\reports\\4.5_24样区_多尺度图与框架示例版.docx",
+    "E:\\数据对齐实验数据2\\新-实验方案\\reports\\第四部分_24样区_框架示例整合版.docx"
+  ]
+}

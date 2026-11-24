@@ -1,0 +1,23 @@
+{
+  "domain_km2": 726.5971679419899,
+  "valid_pixels": 1040400,
+  "total_pixels": 1040400,
+  "coverage": 1.0,
+  "SL2010_km2": 619.4502427290781,
+  "SL2020_km2": 519.3698827901101,
+  "expansion_km2": 21.93358324537657,
+  "contraction_km2": 122.01394318434465,
+  "change_union_km2": 143.94752642972122,
+  "net_change_km2": -100.08035993896806,
+  "net_balance_error_m2": 1.4901161193847656e-08,
+  "area_preservation_max_error_m2": 1.1920928955078125e-07,
+  "support_cells": [
+    34,
+    34
+  ],
+  "native_cells": [
+    1020,
+    1020
+  ],
+  "classification_accuracy_evaluated": false
+}

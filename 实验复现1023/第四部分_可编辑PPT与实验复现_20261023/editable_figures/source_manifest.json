@@ -1,0 +1,77 @@
+[
+  {
+    "name": "mechanism_coupling.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\results\\experiment_1\\coupling.csv",
+    "sha256": "0efc66340461b35b8f3139b900962c00f7230c886c088a6c00c23c85832c550e"
+  },
+  {
+    "name": "mechanism_semantic_change.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\results\\experiment_1\\semantic_change.csv",
+    "sha256": "824ec1dde8a4381569e08ba62d84dcc8f83ce4c5e1ea5d95a2726fffd6a2a263"
+  },
+  {
+    "name": "mechanism_order.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\results\\experiment_2\\order.csv",
+    "sha256": "6c56d5adc0605c8d574b0a810c45295f571a20b9c00630901fbaad124131ec3a"
+  },
+  {
+    "name": "mechanism_contrasts.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\实验独立复核_20261021\\只读基线副本\\results\\statistics\\interaction_contrasts.csv",
+    "sha256": "fd8688eca8a88f70e24ad83e6f62be2d8347268868fa43821f58bdec053a22ce"
+  },
+  {
+    "name": "ablation_contrasts.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\paired_contrasts.csv",
+    "sha256": "2e5874c7ec2206c6e61e1ae899cefcf1229103a8bcf68f22f372b104089583e6"
+  },
+  {
+    "name": "ablation_task_contrasts.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\task_contrasts.csv",
+    "sha256": "5bc233316cc1c833404a7cc73ba4efed6240dac365d4da127f3b2357bde9a048"
+  },
+  {
+    "name": "ablation_method_summary.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\method_summary.csv",
+    "sha256": "639019681b458cc540f95ad9861e96f71e7a2a9df1544acd0347a86f4cdfc882"
+  },
+  {
+    "name": "ablation_task_summary.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\task_summary.csv",
+    "sha256": "f7a8e06f76be7a35e67699679120f1f91cd551f223430c516c2486cc950cba66"
+  },
+  {
+    "name": "ablation_all_alignment.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\all_alignment_metrics.csv",
+    "sha256": "7a2325606ecf4ec8ca77fb30481417bb207834de66eb092b1b47fae694438fd3"
+  },
+  {
+    "name": "ablation_all_task.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\task_metrics.csv",
+    "sha256": "b80dbc00304767c8621ba84c878ac8310146c52dded548e51c2d0aed26fd4e70"
+  },
+  {
+    "name": "ablation_common_parameters.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\all_common_parameter_results.csv",
+    "sha256": "9fcf9dd44baf65c7fa449bbead0a45d880e277d2cf1acd7634907e15bf05bf35"
+  },
+  {
+    "name": "ablation_new_sites.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\new_sites.csv",
+    "sha256": "ddd921a7a3563544bf7fa8be037154483365ebe99a5878389111e869c228c13f"
+  },
+  {
+    "name": "ablation_protocol.md",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_ablation_v5_runtime\\PROTOCOL.md",
+    "sha256": "c391325f9c9f1d6979b37f9bbdc1d89ff90bd1d2736f778517323498e2f6775d"
+  },
+  {
+    "name": "prior_selection_summary.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_v4_runtime\\method_summary.csv",
+    "sha256": "98411f491caefcc6e1f36afa015892cddabcdd67563fe7ac591f843dfd5e58df"
+  },
+  {
+    "name": "prior_selection_choices.csv",
+    "source": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\experiment_v4_runtime\\locked_choices.csv",
+    "sha256": "51ac1e187dc9edac07af2d1643043b566949945b2c373e165b7f9a6fb323a059"
+  }
+]

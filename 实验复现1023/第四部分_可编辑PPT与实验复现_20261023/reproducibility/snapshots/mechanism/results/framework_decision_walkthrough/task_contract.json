@@ -1,0 +1,31 @@
+{
+  "time": "2026-10-19T09:38:04.503078+00:00",
+  "status": "new documented run on previously studied data, not blind preregistration",
+  "tasks": {
+    "A": "per-window SL areas at both epochs, expansion,contraction,net; preserve all valid area mass",
+    "B": "native-grid SL expansion/contraction positions"
+  },
+  "data": "Han2010/2020, same24 windows and five-input common valid mask",
+  "semantics": "SL=21..24; SD1; Others3",
+  "support": [
+    3,
+    10,
+    30
+  ],
+  "area_decision": "single-date fractions plus paired-transition fractions; use30 for displayed storage representation",
+  "location_decision": "native mapped pairs; coarsened labels are scale diagnostics, not replacement output",
+  "QC": {
+    "grid_tolerance_pixels": 1e-06,
+    "mass_rtol": 1e-12,
+    "mass_atol_m2": 1e-06,
+    "output_roundtrip": "exact",
+    "change_exclusivity": "expansion/contraction disjoint"
+  },
+  "acceptance": "task-defined information retention; no fitted F1 or p threshold",
+  "feedback": "numeric or grid QC failure stops implicated step; no claim of actual iterative tuning",
+  "protected": {
+    "E:\\数据对齐实验数据2\\新-实验方案\\selection\\selected_regions.csv": "5ab1ae25c0833f8312de8439efdb777aa6286bd65db50613719148155ff90a6e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_1\\coupling.csv": "0efc66340461b35b8f3139b900962c00f7230c886c088a6c00c23c85832c550e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_2\\order.csv": "6c56d5adc0605c8d574b0a810c45295f571a20b9c00630901fbaad124131ec3a"
+  }
+}

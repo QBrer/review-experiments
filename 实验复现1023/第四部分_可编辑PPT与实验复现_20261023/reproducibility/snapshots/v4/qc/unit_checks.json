@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": [
+    "independent weighted joint histogram",
+    "empty score fallback",
+    "joint independent optimum",
+    "injection inverse sign",
+    "fixed disjoint pilot evaluation",
+    "inverse inclusion weights",
+    "family weights"
+  ]
+}

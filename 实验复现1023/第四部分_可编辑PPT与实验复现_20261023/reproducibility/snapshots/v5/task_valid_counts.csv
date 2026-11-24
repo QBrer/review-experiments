@@ -1,0 +1,7 @@
+﻿dataset,event,n_windows,n_blocks
+low_SL_extrapolation,change_union,63,14
+low_SL_extrapolation,contraction,63,14
+low_SL_extrapolation,expansion,63,14
+old40_exploratory,change_union,40,20
+old40_exploratory,contraction,40,20
+old40_exploratory,expansion,40,20

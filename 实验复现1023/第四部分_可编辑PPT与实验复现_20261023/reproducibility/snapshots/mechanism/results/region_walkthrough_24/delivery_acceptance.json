@@ -1,0 +1,12 @@
+{
+  "time": "2026-10-19T08:22:10.751276+00:00",
+  "passed": true,
+  "regions": 24,
+  "atlas_pages": 24,
+  "image_panels": 192,
+  "GeoTIFF_count": 384,
+  "main_study_map_in_section451": true,
+  "no_B2_in_main_text": true,
+  "old_scientific_results_unchanged": true,
+  "area_checks_passed": true
+}

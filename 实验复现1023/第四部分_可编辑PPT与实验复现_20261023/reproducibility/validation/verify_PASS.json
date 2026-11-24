@@ -1,0 +1,74 @@
+{
+  "mode": "verify",
+  "status": "PASS",
+  "outputs": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_164610_verify_f1f802",
+  "comparisons": [
+    {
+      "file": "v5/method_summary",
+      "rows": 16,
+      "matches": true
+    },
+    {
+      "file": "v5/paired_contrasts",
+      "rows": 24,
+      "matches": true
+    },
+    {
+      "file": "v5/block_results",
+      "rows": 272,
+      "matches": true
+    },
+    {
+      "file": "v5/family_results",
+      "rows": 48,
+      "matches": true
+    },
+    {
+      "file": "v5/task_summary",
+      "rows": 48,
+      "matches": true
+    },
+    {
+      "file": "v5/task_contrasts",
+      "rows": 60,
+      "matches": true
+    },
+    {
+      "file": "v5/all_common_parameter_results",
+      "rows": 24,
+      "matches": true
+    },
+    {
+      "file": "v5/task_valid_counts",
+      "rows": 6,
+      "matches": true
+    },
+    {
+      "file": "mechanism/Table_1_Coupling.csv",
+      "rows": 216,
+      "matches": true
+    },
+    {
+      "file": "mechanism/Table_2_Noncommutativity.csv",
+      "rows": 45,
+      "matches": true
+    },
+    {
+      "file": "mechanism/interaction_contrasts",
+      "rows": 13,
+      "matches": true
+    },
+    {
+      "file": "decomposition/factor_decomposition_by_window.csv",
+      "rows": 168,
+      "matches": true
+    },
+    {
+      "file": "decomposition/factor_decomposition_summary.csv",
+      "rows": 24,
+      "matches": true
+    }
+  ],
+  "original_snapshots_unchanged": true,
+  "raw_raster_metrics_recomputed": false
+}

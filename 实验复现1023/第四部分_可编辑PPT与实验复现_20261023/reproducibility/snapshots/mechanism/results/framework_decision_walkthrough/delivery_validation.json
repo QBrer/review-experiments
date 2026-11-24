@@ -1,0 +1,8 @@
+{
+  "time": "2026-10-19T09:42:01.593464+00:00",
+  "passed": true,
+  "decision_records": 120,
+  "transition_fraction_files_checked": 72,
+  "metrics_matching_previous_unchanged_diagnostics": 216,
+  "original_exp1_2_unchanged": true
+}

@@ -1,0 +1,396 @@
+{
+  "version": "UNIFIED-CROSSPRODUCT-V4-20261022",
+  "status": "DESIGN_WITH_INPUT_PREFLIGHT_NOT_FROZEN",
+  "formal_execution_started": false,
+  "experiment1": {
+    "status": "preserve_verified_original_outputs",
+    "subject": "Han internal expression-condition sensitivity",
+    "years": [
+      2000,
+      2010,
+      2015,
+      2020
+    ],
+    "scales": [
+      3,
+      10,
+      30
+    ],
+    "semantic_levels": [
+      "fine6",
+      "coarse3"
+    ],
+    "reference": "each semantic task uses its own native change map",
+    "signed_scale_response": "F1_30 - F1_3",
+    "mask": "original five-input frozen mask",
+    "additional_analysis": "summarize existing reference fractions FP FN and coverage only"
+  },
+  "experiment2": {
+    "status": "preserve_verified_original_outputs",
+    "subject": "Han semantic/spatial aggregation noncommutativity",
+    "year": 2020,
+    "scales": [
+      3,
+      10,
+      30
+    ],
+    "main_rate": "jointly-decidable block count",
+    "secondary_rate": "effective area",
+    "entropy_groups": "original 12 High and 12 Low",
+    "interpretation": "observational association, not independent causal effect of entropy"
+  },
+  "experiment3": {
+    "inputs": {
+      "H2010": {
+        "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif",
+        "shape": [
+          59672,
+          142273
+        ],
+        "transform": [
+          0.000269494585235856,
+          0.0,
+          87.73504020187409,
+          0.0,
+          -0.00026949458523585593,
+          53.454789970702606,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "crs": "EPSG:4326",
+        "offset_row_col": [
+          119,
+          0
+        ],
+        "bytes": 8518665313,
+        "mtime_ns": 1758877264000000000
+      },
+      "H2020": {
+        "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2020.tif",
+        "shape": [
+          59534,
+          142273
+        ],
+        "transform": [
+          0.000269494585235856,
+          0.0,
+          87.73504020187401,
+          0.0,
+          -0.00026949458523585604,
+          53.42272011505953,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "crs": "EPSG:4326",
+        "offset_row_col": [
+          0,
+          0
+        ],
+        "bytes": 8500424065,
+        "mtime_ns": 1758878461000000000
+      },
+      "W2010": {
+        "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2010.tif",
+        "shape": [
+          59873,
+          142221
+        ],
+        "transform": [
+          0.00026949458523585636,
+          0.0,
+          87.74905392030628,
+          0.0,
+          -0.00026949458523585636,
+          53.51084484443166,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "crs": "EPSG:4326",
+        "offset_row_col": [
+          327,
+          -52
+        ],
+        "bytes": 516015029,
+        "mtime_ns": 1741050683963310400
+      },
+      "W2020": {
+        "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2020.tif",
+        "shape": [
+          59873,
+          142221
+        ],
+        "transform": [
+          0.00026949458523585647,
+          0.0,
+          87.7490539203063,
+          0.0,
+          -0.00026949458523585636,
+          53.51084484443166,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "crs": "EPSG:4326",
+        "offset_row_col": [
+          327,
+          -52
+        ],
+        "bytes": 504586517,
+        "mtime_ns": 1741049733613686500
+      }
+    },
+    "anchor": "Han",
+    "moving_product": "Wang",
+    "years": [
+      2010,
+      2020
+    ],
+    "task": "cross-product nominal correspondence recovery and Wang event location preservation",
+    "scope": "known added integer translations against real cross-product differences; no independent land truth claim",
+    "split": {
+      "manifest": "开发与测试候选名单_100窗.csv",
+      "development_windows": 60,
+      "test_windows": 40,
+      "test_blocks": 20,
+      "block_projection": "EPSG:6933",
+      "block_side_projected_m": 200000,
+      "block_origin_xy": [
+        0,
+        0
+      ],
+      "geodesic_center_buffer_m": 100000,
+      "new_site_min_distance_m": 50000,
+      "split_seed": 20261021
+    },
+    "window": {
+      "central_shape": [
+        1200,
+        1200
+      ],
+      "source_halo": 13,
+      "safe_domain": "central H2010/H2020 legal intersect W2010/W2020 legal masks eroded by square radius13 (6 injection+6 search+1 boundary)",
+      "min_safe_coverage": 0.9,
+      "preflight_all_pass": true
+    },
+    "perturbation": {
+      "families": [
+        "G0_none",
+        "G1_same_two_epoch",
+        "G2_different_two_epoch"
+      ],
+      "cases_per_window": 7,
+      "magnitudes_per_component": [
+        1,
+        3,
+        6
+      ],
+      "directions": [
+        [
+          1,
+          0
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          -1,
+          1
+        ],
+        [
+          -1,
+          -1
+        ]
+      ],
+      "definition": "Wtilde_t(r,c)=W_t(r+dr_t,c+dc_t)",
+      "true_correction": "-d_t",
+      "affine_metadata": "unchanged",
+      "truth_access": "evaluator only after frozen outputs",
+      "family_weight": "equal thirds; three magnitudes equal within G1/G2",
+      "base_seed": 20261022
+    },
+    "search": {
+      "row_range": [
+        -6,
+        6
+      ],
+      "col_range": [
+        -6,
+        6
+      ],
+      "integer_only": true,
+      "tie": "smallest norm then row/col lexicographic",
+      "known_original_grid_offsets_are_shared_preprocessing": true
+    },
+    "candidate_pool": {
+      "A0": "no extra correction",
+      "A1": "per-epoch class-boundary matching",
+      "A2": "per-epoch learned class-compatibility matching",
+      "A3": "joint two-epoch boundary+compatibility with soft shift difference penalty"
+    },
+    "A1": {
+      "boundary": "valid four-neighbor label differences",
+      "matching_tolerance_pixels": 1,
+      "objective": "z_boundary(u)-gamma*L1(u)/12",
+      "gamma_grid": [
+        0,
+        0.25,
+        0.5
+      ]
+    },
+    "A2": {
+      "matrix": "P(W14|H6), area normalized per training window/date then equal-window average",
+      "smoothing_epsilon": 0.001,
+      "unseen_Han_class": "uninformative uniform row excluded from score",
+      "score": "mean of within-Han-class area-weighted log P, equal informative-class weights",
+      "objective": "z_semantic(u)-gamma*L1(u)/12",
+      "gamma_grid": [
+        0,
+        0.25,
+        0.5
+      ]
+    },
+    "A3": {
+      "objective": "sum_t((z_boundary+z_semantic)/2)-lambda*L1(u1-u0)/12-gamma*sum_t(L1(u_t))/24",
+      "lambda_grid": [
+        0,
+        0.25,
+        0.5,
+        1
+      ],
+      "gamma_grid": [
+        0,
+        0.25,
+        0.5
+      ],
+      "parameter_ties": "smaller lambda then gamma",
+      "no_information_epoch": "fix correction at zero"
+    },
+    "calibration": {
+      "objective": "equal-family mean known recovery error on training-fold cases",
+      "refit_per_fold": [
+        "label relationship",
+        "gamma/lambda",
+        "imputation",
+        "single best candidate",
+        "selectors"
+      ],
+      "development_CV": "5 spatial-group folds with100km training-validation buffer",
+      "all_cases_of_same_window_same_fold": true
+    },
+    "diagnostics": {
+      "strata": [
+        5,
+        5
+      ],
+      "core_shape": [
+        30,
+        30
+      ],
+      "cores_per_stratum": 2,
+      "maximum_cores": 50,
+      "W_halo": 7,
+      "W_maximum_read_fraction_before_overlap": 0.06722222222222222,
+      "H_halo": 1,
+      "extra_evaluation_guard_pixels": 6,
+      "sampling": "geometry and safe mask only; inverse-inclusion/area weighting",
+      "same_mask_for_all_scenarios": true
+    },
+    "selector": {
+      "model": "multioutput DecisionTreeRegressor",
+      "max_depth": 2,
+      "min_samples_leaf_rows": 56,
+      "max_rows_per_window": 7,
+      "minimum_distinct_windows_per_leaf": 8,
+      "criterion": "squared_error",
+      "target": "candidate residual shift errors",
+      "choose": "argmin predicted error",
+      "ties": [
+        "A0",
+        "A1",
+        "A2",
+        "A3"
+      ],
+      "minimum_training_windows": 16,
+      "fallback": "training single best",
+      "random_state": 20261022,
+      "sample_weights": "equal window, equal family, equal magnitude within family"
+    },
+    "comparators": [
+      "A0",
+      "all_four_fixed_candidates",
+      "development_single_best_primary",
+      "spatial_only_same_capacity_selector",
+      "full_selector",
+      "posthoc_oracle_diagnostic"
+    ],
+    "primary": {
+      "metric": "mean two-epoch Euclidean residual shift in native pixel coordinates",
+      "effect": "E_single_best - E_full_selector",
+      "practical_delta_pixels": 0.5,
+      "CI": 0.95,
+      "success": "positive CI lower bound and point effect >=0.5",
+      "delta_is_planning_choice": true
+    },
+    "secondary": {
+      "task_membership": "Wang code13 sand, not asserted equal to Han SL",
+      "events": [
+        "change_union",
+        "expansion",
+        "contraction"
+      ],
+      "reference": "unperturbed Wang native event maps",
+      "metrics": [
+        "area_weighted_F1",
+        "IoU",
+        "FP_area",
+        "FN_area",
+        "coverage",
+        "regret",
+        "within_1pixel_success",
+        "exact_recovery",
+        "G0_nominal_position_modification_rate"
+      ],
+      "zero_reference": "retain geometric evaluation; exclude uniformly from F1 estimand and report false changes"
+    },
+    "statistics": {
+      "unit": "20 spatial blocks",
+      "bootstrap": 10000,
+      "aggregation": "family -> window -> block -> equal block mean",
+      "random_streams": "separate derived streams per estimand",
+      "no_pixel_or_scenario_pseudoreplication": true
+    },
+    "natural_application": {
+      "output": "source-preserving pair relations and proposed alignment, no forced semantic fusion",
+      "truth": "unknown physical accuracy",
+      "claims": "diagnostic and procedural only without independent reference"
+    },
+    "samples_reference": "not used; provenance/year/pairing unresolved",
+    "cost": "measure diagnostic/algorithm/model/output costs; no equal-compute claim"
+  },
+  "provenance": {
+    "design_sha256": "5cdfa60b51567b2ea90ff4a7e2ed0b80df229c3745a8a4d068578d7ea56d3e8c",
+    "split_sha256": "8c55d4a874540a58850a5fb58328320d93b6af4487c2f6664b094e7a35871a52",
+    "preflight_sha256": "aa4e078d9447530f0bf8c485afd4595da47562afb0da245aae2ae0b0d60d0f74",
+    "old_data_and_outputs_modified": false
+  }
+}

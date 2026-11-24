@@ -1,0 +1,22 @@
+{
+  "source": "https://www.nature.com/articles/s41597-025-05648-8.pdf",
+  "location": "Table 2, PDF page 5",
+  "doi": "10.1038/s41597-025-05648-8",
+  "verified_codes": {
+    "1": "Forest",
+    "2": "Shrub",
+    "3": "Meadow",
+    "4": "Real steppe",
+    "5": "Dry steppe",
+    "6": "Desert steppe",
+    "7": "Wetland",
+    "8": "Water",
+    "9": "Cropland",
+    "10": "Built-up land",
+    "11": "Barren land",
+    "12": "Desert",
+    "13": "Sand",
+    "14": "Ice"
+  },
+  "scope": "Final 14-class product; not sample-stage label coding"
+}

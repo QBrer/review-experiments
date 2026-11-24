@@ -1,0 +1,90 @@
+{
+  "status": "COMPLETE",
+  "date": "2026-10-22",
+  "result": {
+    "date": "2026-10-22",
+    "status": "COMPLETE",
+    "old_exploratory_windows": 40,
+    "old_blocks": 20,
+    "new_extrapolation_windows": 63,
+    "new_blocks": 14,
+    "primary_regime": "matched gamma0.5 lambda0.25",
+    "both_prespecified_increments_supported_97_5_CI": false,
+    "new_primary_contrasts": [
+      {
+        "dataset": "low_SL_extrapolation",
+        "regime": "matched_primary",
+        "contrast": "semantic_given_time",
+        "direction": "GT minus GST",
+        "metric": "E_pixels",
+        "n_blocks": 14,
+        "mean": 0.10570403133754017,
+        "median": 0.06666666666666665,
+        "ci95_low": 0.016460759808974098,
+        "ci95_high": 0.2317834175083488,
+        "ci975_low": 0.010279681738015073,
+        "ci975_high": 0.2566726985068507,
+        "positive": 9,
+        "negative": 3,
+        "zero": 2
+      },
+      {
+        "dataset": "low_SL_extrapolation",
+        "regime": "matched_primary",
+        "contrast": "time_given_semantic",
+        "direction": "GS minus GST",
+        "metric": "E_pixels",
+        "n_blocks": 14,
+        "mean": 0.031495934701640395,
+        "median": 0.0,
+        "ci95_low": -0.003968253968253968,
+        "ci95_high": 0.09666089556372692,
+        "ci975_low": -0.0053854875283446705,
+        "ci975_high": 0.12296030721170141,
+        "positive": 3,
+        "negative": 1,
+        "zero": 10
+      }
+    ],
+    "independent_calibration": {
+      "G": {
+        "method": "G",
+        "gamma": 0.0,
+        "lambda": 0.0,
+        "training_E": 0.6005963772961715
+      },
+      "GS": {
+        "method": "GS",
+        "gamma": 0.25,
+        "lambda": 0.0,
+        "training_E": 0.04990693975612193
+      },
+      "GT": {
+        "method": "GT",
+        "gamma": 0.25,
+        "lambda": 1.0,
+        "training_E": 0.554578662845804
+      },
+      "GST": {
+        "method": "GST",
+        "gamma": 0.5,
+        "lambda": 0.25,
+        "training_E": 0.048055087904270086
+      }
+    },
+    "geometric_rows": 21630,
+    "task_rows": 15141,
+    "source_files_unchanged": 1141,
+    "no_parameter_changes_after_new_results": true
+  },
+  "independent_audit_passed": true,
+  "final_code_hashes": {
+    "ablation.py": "2907c3e5e0d204c74eb193accf1aadcc5d20d5a0f67395f9d6f13ab3f5a09550",
+    "audit.py": "0c4090585262800f2656b9289c36d4e20dbfec55b9fc69a523497fb68369d71b",
+    "reformat_report.py": "2ec885051e9e7fd2f89480bb60decc76f4a00558e1beb4319e51781be18e3c57",
+    "render_report.py": "0c0dc317855f7274ec56f92582b9ee3b9faaf2915e7a5d3ba541f56bb4c0ac66",
+    "report.py": "32536ad4d804028baa59403e36e68243da5c380eddd128e7b98fc6a9cea8a61d"
+  },
+  "report_docx_sha256": "1bac433ea5ed7f77855b6bc337eb0f1d2616340ead8cbf9bce0973a3c9718cf3",
+  "report_pdf_sha256": "4278cfb18b6b67dabf2a3bf2908700e542dee06477713917dc48fe175427ae65"
+}

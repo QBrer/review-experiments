@@ -1,0 +1,325 @@
+{
+  "version": "NEW-1.0",
+  "frozen_at": "2026-10-16T10:13:55.516265+00:00",
+  "plan_sha256": "5deeb93fdc49132514230aafc3e33c5c3f48cfbcab1124c942aff6d9c26971f0",
+  "input_files": {
+    "H2000": {
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2000.tif",
+      "bytes": 8500424065,
+      "mtime_ns": 1758875932000000000,
+      "shape": [
+        59534,
+        142273
+      ],
+      "crs": "EPSG:4326",
+      "transform": [
+        0.000269494585235856,
+        0.0,
+        87.73504020187401,
+        0.0,
+        -0.00026949458523585604,
+        53.42272011505953,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "nodata": 0.0,
+      "offset_from_H2020": [
+        0,
+        0
+      ]
+    },
+    "H2010": {
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif",
+      "bytes": 8518665313,
+      "mtime_ns": 1758877264000000000,
+      "shape": [
+        59672,
+        142273
+      ],
+      "crs": "EPSG:4326",
+      "transform": [
+        0.000269494585235856,
+        0.0,
+        87.73504020187409,
+        0.0,
+        -0.00026949458523585593,
+        53.454789970702606,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "nodata": 0.0,
+      "offset_from_H2020": [
+        119,
+        0
+      ]
+    },
+    "H2015": {
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2015.tif",
+      "bytes": 8500424065,
+      "mtime_ns": 1758877916000000000,
+      "shape": [
+        59534,
+        142273
+      ],
+      "crs": "EPSG:4326",
+      "transform": [
+        0.000269494585235856,
+        0.0,
+        87.73504020187409,
+        0.0,
+        -0.00026949458523585604,
+        53.42272011505953,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "nodata": 0.0,
+      "offset_from_H2020": [
+        0,
+        0
+      ]
+    },
+    "H2020": {
+      "path": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2020.tif",
+      "bytes": 8500424065,
+      "mtime_ns": 1758878461000000000,
+      "shape": [
+        59534,
+        142273
+      ],
+      "crs": "EPSG:4326",
+      "transform": [
+        0.000269494585235856,
+        0.0,
+        87.73504020187401,
+        0.0,
+        -0.00026949458523585604,
+        53.42272011505953,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "nodata": 0.0,
+      "offset_from_H2020": [
+        0,
+        0
+      ]
+    },
+    "W2020": {
+      "path": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2020.tif",
+      "bytes": 504586517,
+      "mtime_ns": 1741049733613686500,
+      "shape": [
+        59873,
+        142221
+      ],
+      "crs": "EPSG:4326",
+      "transform": [
+        0.00026949458523585647,
+        0.0,
+        87.7490539203063,
+        0.0,
+        -0.00026949458523585636,
+        53.51084484443166,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "nodata": null,
+      "offset_from_H2020": [
+        327,
+        -52
+      ]
+    }
+  },
+  "years": [
+    2000,
+    2010,
+    2015,
+    2020
+  ],
+  "scales": [
+    3,
+    10,
+    30
+  ],
+  "window_size": 1200,
+  "edge_policy": "exclude incomplete 1200 windows; no padding",
+  "common_mask": "intersection legal original codes in H2000,H2010,H2015,H2020,W2020; same mask in all experiments and composition",
+  "coverage": "valid native pixel count / 1200^2",
+  "min_coverage": 0.95,
+  "legal_codes": {
+    "Han": [
+      1,
+      21,
+      22,
+      23,
+      24,
+      3
+    ],
+    "Wang": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "SL_range_inclusive": [
+    0.2,
+    0.8
+  ],
+  "Others_min_inclusive": 0.1,
+  "composition_weights": "WGS84 valid area",
+  "B2": {
+    "row": 52983,
+    "col": 78382,
+    "size": 1020,
+    "lon": 108.99600702030122,
+    "lat": 39.00664626703787,
+    "historical_rate": 0.1634734517721823
+  },
+  "distance": "WGS84 ellipsoidal geodesic between geometric window centers",
+  "B2_exclusion_km": 100,
+  "min_center_distance_km": 50,
+  "sensitivity": {
+    "metric": "conditional SL entropy, log2",
+    "q": [
+      0.25,
+      0.75
+    ],
+    "quantile_method": "linear",
+    "High": "H_SL>=Q75",
+    "Low": "H_SL<=Q25",
+    "equal_quantiles": "STOP",
+    "no_outcome_access": true
+  },
+  "sample": {
+    "n_per_group": 12,
+    "seed": 20261016,
+    "rng": "numpy PCG64 default_rng",
+    "first_group": "High",
+    "first_each_group": "uniform random among distance-eligible sorted row/col candidates",
+    "subsequent": "global maximin to all previously selected windows",
+    "distance_tie_tolerance_m": 1e-06,
+    "tie_order": "ascending row,col",
+    "failure": "STOP without relaxation"
+  },
+  "semantic_mapping": {
+    "1": 1,
+    "21": 2,
+    "22": 2,
+    "23": 2,
+    "24": 2,
+    "3": 3
+  },
+  "tie_relative_tolerance": 1e-10,
+  "unresolved": 255,
+  "experiment1": {
+    "start_years": [
+      2015,
+      2010,
+      2000
+    ],
+    "end_year": 2020,
+    "semantic_levels": [
+      "fine6",
+      "coarse3"
+    ],
+    "reference": "native any-class change at corresponding semantic level",
+    "metrics_weight": "area"
+  },
+  "experiment2": {
+    "year": 2020,
+    "primary_rate": "cell-count",
+    "companion_rate": "valid-area-weighted",
+    "phase_factor": 30,
+    "phase_offsets": [
+      0,
+      10,
+      20
+    ],
+    "phase_core": "[30:n-30,30:n-30] on both axes; same for all phases",
+    "phase_cells": "every positive core-overlap jointly decidable block counts once; area weighted by core overlap",
+    "baseline_phase": [
+      0,
+      0
+    ]
+  },
+  "experiment3": {
+    "area_year": 2020,
+    "start_years": [
+      2015,
+      2010,
+      2000
+    ],
+    "end_year": 2020,
+    "purity_threshold": 0.9,
+    "refinement": "either epoch max coarse proportion < .90 => native in both",
+    "baseline": "uniform coarse3 dominant label",
+    "area_proposed": "SL proportion per block float64",
+    "reference": "native SL binary; internal product preservation, not ground truth",
+    "no_group_access": true,
+    "primary": {
+      "start_year": 2010,
+      "end_year": 2020,
+      "scale": 30,
+      "metric": "area-weighted binary SL-change F1",
+      "comparisons": [
+        "High:Proposed-Baseline",
+        "Low:Proposed-Baseline"
+      ],
+      "correction": "Holm family size2"
+    }
+  },
+  "metrics": {
+    "change_weight": "WGS84 valid area",
+    "NC_weights": [
+      "count",
+      "valid-area"
+    ],
+    "zero_denominators": "NA, never perfect score",
+    "unknown_change": "abstention; positive reference counted FN; report coverage",
+    "unknown_area": "[L,L+unknown]; primary worst-case absolute deviation; signed bias interval",
+    "relative_area_denominator": "reference SL area",
+    "area_primary": "absolute km2; relative companion"
+  },
+  "statistics": {
+    "unit": "sample window; B2 excluded",
+    "test": "two-sided exact paired sign-flip test of mean difference, enumerate all 2^n",
+    "effect": "mean and median paired difference plus paired rank-biserial descriptive",
+    "bootstrap": "paired whole-window percentile CI, 10000 replicates",
+    "seed": 20261016,
+    "min_pairs": 5,
+    "missing": "complete finite pairs with n and missing reported; no replacement; NA remains in planned family as p=1 placeholder",
+    "secondary": "descriptive estimates and window bootstrap CI only; no secondary p-values",
+    "all_zero": "p=1 and effect=0"
+  },
+  "storage": {
+    "format": "np.savez_compressed + JSON metadata per task output",
+    "labels": "uint8",
+    "proportions": "float64",
+    "adaptive": "coarse labels for both years, sorted uint32 flattened block indices, native uint8 fine payloads for both years",
+    "common": "full uint8 valid mask and per-row float64 areas included and charged separately to every artifact",
+    "cost": "sum array nbytes + metadata bytes; actual NPZ + JSON bytes; native three-class expression same accounting"
+  },
+  "software": {
+    "python": "3.10.14 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:44:50) [MSC v.1916 64 bit (AMD64)]",
+    "executable": "E:\\anconda\\envs\\py310\\python.exe",
+    "numpy": "1.26.4",
+    "rasterio": "1.4.3",
+    "gdal": "3.9.3",
+    "platform": "Windows-10-10.0.19045-SP0"
+  }
+}

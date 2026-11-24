@@ -1,0 +1,241 @@
+{
+  "version": "SELECTOR-V3-DESIGN-20261021",
+  "status": "DESIGN_NOT_FROZEN",
+  "execution_allowed": false,
+  "objective": "Improve strategy selection and internal SL-change information preservation on new spatial windows",
+  "primary": {
+    "years": [
+      2010,
+      2020
+    ],
+    "support": 30,
+    "event": "SL_change_union",
+    "metric": "area_weighted_F1",
+    "contrast": "Framework_full - development_single_best",
+    "practical_delta": 0.02,
+    "delta_is_design_choice_not_empirical_result": true
+  },
+  "secondary": {
+    "supports": [
+      3,
+      10
+    ],
+    "events": [
+      "expansion",
+      "contraction"
+    ],
+    "contrasts": [
+      "Framework_full - Framework_basic",
+      "Framework_full - pilot_greedy"
+    ],
+    "do_not_replace_primary": true
+  },
+  "data": {
+    "candidate_pool": "existing_714_eligible_windows",
+    "native_window_size": 1200,
+    "common_mask": [
+      "Han2000",
+      "Han2010",
+      "Han2015",
+      "Han2020",
+      "Wang2020"
+    ],
+    "classification_inputs": [
+      "Han2010",
+      "Han2020"
+    ],
+    "reference": "same-source native SL paired events, internal fidelity"
+  },
+  "spatial_split": {
+    "proposal_manifest": "空间划分可行性_候选名单.csv",
+    "old_development": 24,
+    "new_development": 36,
+    "test_windows": 40,
+    "test_blocks": 20,
+    "sites_per_test_block": 2,
+    "projection": "EPSG:6933",
+    "tile_origin_xy": [
+      0,
+      0
+    ],
+    "tile_side_m": 200000,
+    "test_development_min_center_geodesic_m": 100000,
+    "new_window_min_center_geodesic_m": 50000,
+    "old_B2_excluded_from_train_test": true,
+    "seed": 20261021,
+    "geometry_only_check": {
+      "status": "DESIGN_GEOMETRY_CHECK_ONLY_NOT_FROZEN",
+      "inputs": [
+        "selection/candidates.csv",
+        "selection/selected_regions.csv",
+        "parameters/frozen_parameters.json"
+      ],
+      "raster_or_new_performance_access": false,
+      "eligible_pool": 714,
+      "far_from_old25_count": 423,
+      "strict_new_block_candidates": 258,
+      "blocks_with_50km_pair": 22,
+      "proposed_test_blocks": 20,
+      "proposed_test_windows": 40,
+      "proposed_new_development_windows": 36,
+      "existing_development_windows": 24,
+      "development_candidates_after_test_buffer": 277,
+      "geometry_skipped_blocks": [
+        "(56, 25)"
+      ],
+      "seed": 20261021,
+      "projection": "EPSG:6933",
+      "tile_side_projected_m": 200000,
+      "grid_origin_xy": [
+        0,
+        0
+      ],
+      "test_old_buffer_geodesic_m": 100000,
+      "test_development_buffer_geodesic_m": 100000,
+      "minimum_window_center_distance_m": 50000,
+      "source_candidates_sha256": "898829a2cb7238ee351bce32523819f3ca8301e249e841cbf9188e2bc152e932"
+    }
+  },
+  "pilot": {
+    "anchor_support": 30,
+    "coarse_grid_shape": [
+      40,
+      40
+    ],
+    "strata_shape": [
+      5,
+      5
+    ],
+    "stratum_coarse_shape": [
+      8,
+      8
+    ],
+    "cells_per_stratum": 2,
+    "max_cells": 50,
+    "maximum_native_pixel_fraction": 0.03125,
+    "sampling": "uniform without replacement among positive-valid-area cells; min(2,available); no replacement across strata",
+    "inverse_inclusion_weights": true,
+    "guard_native_pixels": 30,
+    "same_native_masks_for_all_scales": true,
+    "test_evaluation_excludes_pilot_and_guard": true,
+    "seed": "SHA256(base_seed,window_id,pilot) -> PCG64"
+  },
+  "strategies": {
+    "S1": "fine6 modal states -> semantic mapping -> SL directional events",
+    "S2": "semantic mapping -> coarse3 modal states -> SL directional events",
+    "S3": "native coarse3 transition pairs -> modal among 9 -> SL directional events",
+    "S4": "native SL events -> modal among unchanged,expansion,contraction",
+    "S5": "change_fraction >= development_tau; direction argmax(expansion,contraction)"
+  },
+  "S5": {
+    "tau_grid": [
+      0.05,
+      0.1,
+      0.15,
+      0.2,
+      0.25,
+      0.3,
+      0.35,
+      0.4,
+      0.45,
+      0.5,
+      0.55,
+      0.6,
+      0.65,
+      0.7,
+      0.75,
+      0.8,
+      0.85,
+      0.9,
+      0.95
+    ],
+    "fit": "training fold only / all development for final fit",
+    "objective": "mean positive-reference-window F1 on training evaluation regions",
+    "tie_rule": "larger tau"
+  },
+  "output": {
+    "dtype": "uint8",
+    "codes": {
+      "0": "no_SL_membership_change",
+      "1": "expansion",
+      "2": "contraction",
+      "255": "unresolved"
+    },
+    "native_payload_allowed": false,
+    "proportion_payload_allowed": false,
+    "same_output_capacity": true,
+    "equal_end_to_end_computational_cost_claim": false
+  },
+  "feature_schema": {
+    "basic": [
+      "SL_fraction_t0",
+      "SL_fraction_t1",
+      "mean_coarse3_entropy",
+      "mean_coarse3_max_purity",
+      "mean_valid_4_neighbor_boundary_density",
+      "pilot_valid_coverage"
+    ],
+    "cross_dimensional": [
+      "SL_conditional_entropy",
+      "semantic_spatial_order_disagreement",
+      "transition_vs_marginal_product_TV",
+      "SL_change_fraction",
+      "gross_net_cancellation"
+    ],
+    "source": "pilot only",
+    "missing": "training median imputation plus missing indicators"
+  },
+  "selector": {
+    "implementation": "multioutput DecisionTreeRegressor",
+    "max_depth": 2,
+    "min_samples_leaf": 8,
+    "criterion": "squared_error",
+    "random_state": 20261021,
+    "target": "five candidate F1 values in nonpilot evaluation domain",
+    "tie_tolerance": 1e-12,
+    "tie_order": [
+      "S2",
+      "S5",
+      "S1",
+      "S3",
+      "S4"
+    ],
+    "all_features_missing_fallback": "development_single_best",
+    "cross_validation": "5-fold spatial group CV, 100 km validation buffer",
+    "min_training_windows": 16,
+    "insufficient_training_fallback": "fold_single_best",
+    "same_sites_all_scales_same_fold": true
+  },
+  "comparators": [
+    "fixed_S2",
+    "development_single_best",
+    "basic_features_same_tree",
+    "pilot_greedy_same_budget",
+    "posthoc_oracle_diagnostic_only"
+  ],
+  "metrics": {
+    "weights": "WGS84 effective pixel area",
+    "unresolved": "reference positives count FN; report coverage",
+    "zero_reference": "exclude uniformly from main F1 estimand; retain in false-change diagnostics, never replace window",
+    "regret": "max locked-candidate F1 minus selected F1",
+    "near_oracle_tolerance": 0.01
+  },
+  "statistics": {
+    "unit": "spatial block",
+    "within_block": "equal mean of valid paired window effects",
+    "across_blocks": "equal mean",
+    "bootstrap_replicates": 10000,
+    "primary_CI_level": 0.95,
+    "bootstrap": "resample entire spatial blocks",
+    "rng_streams": "independent SeedSequence/SHA256 streams per estimand",
+    "secondary_simultaneous_two_contrast_CI_level": 0.975,
+    "thresholds_frozen_before_test": true
+  },
+  "provenance": {
+    "design_sha256": "95d1faf4c3a2ea6ac9a952c5c11ca53f89e8854dae2d2b21997dd725b12f881b",
+    "geometry_manifest_sha256": "30dece9afdc10021fc52aa72467c062a12a6f579722d624690c903c5dd20346c",
+    "new_task_performance_computed": false,
+    "new_selector_trained": false,
+    "prior_outputs_modified": false
+  }
+}

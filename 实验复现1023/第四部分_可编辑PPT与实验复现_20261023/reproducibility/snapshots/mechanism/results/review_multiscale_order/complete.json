@@ -1,0 +1,14 @@
+{
+  "time": "2026-10-19T08:40:58.660340+00:00",
+  "regions": 24,
+  "scales": [
+    3,
+    10,
+    30
+  ],
+  "map_panels": 216,
+  "phase_rows": 648,
+  "main_rates_match_original": true,
+  "no_significance_tests": true,
+  "old_files_unchanged": true
+}

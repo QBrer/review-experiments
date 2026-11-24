@@ -1,0 +1,11 @@
+{
+  "time": "2026-10-19T09:38:32.992770+00:00",
+  "regions": 24,
+  "decision_rows": 120,
+  "area_rows": 168,
+  "location_rows": 216,
+  "validated": true,
+  "max_area_error_m2": 2.2737367544323206e-07,
+  "no_iterative_repair_executed": true,
+  "older_results_unchanged": true
+}

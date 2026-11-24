@@ -1,0 +1,12602 @@
+[
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "7e2ee2b15579504a9b9a"
+  },
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "1ead34ca0651d746ee75"
+  },
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "6d2c9ec2f9dd655bf526"
+  },
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "7197093676be0debe258"
+  },
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "1a81014d9b9bb261f28c"
+  },
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "fde6664d74b01e20e9d8"
+  },
+  {
+    "site": "r44400_c74400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "2ffef5648a2290ddbc0c"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "f04d37304f015a65d8e4"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "f2d70050c2f052ec92fc"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "e644591ceeb13f4d59c2"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "a2fa935ece1769eca7ee"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "dd203a0630a0b0117017"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "ada7998c424dd3ffffd7"
+  },
+  {
+    "site": "r34800_c48000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "9f95025965317e461dd2"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "b0cdaea52289001dcfc5"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "baf56cc18885528f831d"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "fd97a7b94c1cd870f8fa"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "a790b532bfc899f7bc95"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "a9b423d58ea1ca4313a9"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "3384cf1567eb298cd8fe"
+  },
+  {
+    "site": "r33600_c129600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "0d82e6c5760b15bee09d"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "59b8ec22c1b3f1901470"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "7340c83056e505191c82"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "e64f20ce87cbe3f83c16"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "e6cebf87dbe9142c979e"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "2af46c69383af1827c70"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "f3f458c14626b605f1df"
+  },
+  {
+    "site": "r27600_c13200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "fef1185b21fe610e7c0a"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "54f21511b7e6853ccdad"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "5e0b0024c6869eb4c2f2"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "378b21a138db6305af9e"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "6602e552cf328be0a686"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "7f2887bbfe5da500d9bc"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "4b9858782fa2ccefd98d"
+  },
+  {
+    "site": "r36000_c100800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "cdb5380649fd85e90e5e"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "5c6e3440768d10b3557b"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "7cdc25b9293d22102807"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "841d873638d82da85d81"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "16e1db883917fb5d8149"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "a115242b1c92f20025fe"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "39adfa4d7f62a698d135"
+  },
+  {
+    "site": "r15600_c114000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "7800a1f29baa27de2167"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "f0e84edd61f9aff4464f"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "5ef596e0dc6ea483dfc8"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "4c3592a16a5d6f858612"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "b1e5ce528972f8912c3c"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "3b663d9580e3f29efed0"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "67616047c9b0a1e7bf8b"
+  },
+  {
+    "site": "r24000_c74400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "3b785d8d4478ddff8339"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "50583972b924bcf636f8"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "c2d95bdef7ab6ba87b6d"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "9f4094e7b22a10d4d54f"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "f8d10ec4b743e9e7b574"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "4d45efcc8cd4d9e315e5"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "76b22a7db3f4b0a9de6a"
+  },
+  {
+    "site": "r57600_c60000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "c5b7407aaf15d8aac374"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "1d60c46873037a389f6f"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "c45cd89f464839410266"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "b9218aad2f8b00047458"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "e4a10eb1f0a7e6c1ba65"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "6d22ab5d272a10b7d846"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "526806b6ced375afe902"
+  },
+  {
+    "site": "r10800_c21600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "67cdb354288c2f32f699"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "c862719895b261a7b4f3"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "5ab8b154e36e542054ce"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "4351d49c5a4bbc1e5c60"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "e149807c52c960461863"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "70fd00f383136996bc5c"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "8d73bff38ab83c746ec4"
+  },
+  {
+    "site": "r49200_c45600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "2f8094f3ffd9f13e2b64"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "c16f977746f0c7835163"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "843304b7261e6e0d4cbc"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "fe6b54378c7b0851e763"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "8f153e13b06d65cbc59f"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "06aaae7c182bbbad1e39"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "c1e0133ae5ba071bd694"
+  },
+  {
+    "site": "r22800_c31200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "90410f86474400696d43"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "e5cec5e40da38b46eb55"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "128b801d68bed09ef4fd"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "30b4643c370943fec1ad"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "5680d134bd041e04b71e"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "e3355b325180881120bd"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "7c6a6b0cc2c19c6add1a"
+  },
+  {
+    "site": "r43200_c58800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "84c231b6da555662d9de"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "045abe7feb40af4ca176"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "97f6904823f9de9b6ef7"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "bfb593b47e56ebc91ec7"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "cbbd8bad453b0d754366"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "216a36d771d8c9157690"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "b93c70cbaf67be933905"
+  },
+  {
+    "site": "r56400_c74400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "41134ae9ea536caa93c0"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "57e29e94c62481403dea"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "4977fcdc8c84741e05f5"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "08f1ae32833aacc24f07"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "c0b6422137f9017048ff"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "1143b03ffc58389bbdf2"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "99d887419896f9b3d060"
+  },
+  {
+    "site": "r39600_c116400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "4b5544e66d6760d31fbc"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d8f00dcb809531a70885"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "b8685019303f1fd3faf6"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "cadbac28b2fb9a660db4"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "8a374e5ce872627b5d11"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "6fa6644405b4400a47ab"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "4df1aa17daa869d1d414"
+  },
+  {
+    "site": "r30000_c87600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "2e9e303bdf52cd870e85"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "c324243f379e0a039ffd"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "57b7c1184cf2774dd0e9"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "b75b133bcfcda0dda0f1"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "e3b5b7ec14e97755065d"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "9a1646e436a06c63b7bb"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "af7542aa4fc9e39ee3d2"
+  },
+  {
+    "site": "r30000_c61200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "17e441af9d474a1423a7"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "ad26f9eb36d378332777"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "a1a8f5685375c43bbef6"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "a93a889983cb3fcb89f6"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "a49472bb2bb52c2b7fd5"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "77343df93f7d3b694de4"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "44973293fd2be21d2ae5"
+  },
+  {
+    "site": "r28800_c110400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "5fc6ac97e32c5c6a12bb"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d16ea23cd2919d27d08a"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "699724540339edc53a13"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "7acdcc6816de8d2e5fe8"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "f12758614aed2bfb049f"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "fe5f9ec0888180f9b78c"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "ef5dff8992ced6bdd6cd"
+  },
+  {
+    "site": "r40800_c37200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "e27fd5d110a11ed4e981"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d51b555ba2b32eebdcdb"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "a9d2d127c1ba0dfc8fd0"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "797b95e95897c4af8777"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "a0626d349e7855a867ff"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "b27ccbb40e679567c171"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "aa78da7fad014676e67a"
+  },
+  {
+    "site": "r39600_c86400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "27a1d0092ef952200f3f"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "fdcc1f860fbfe0724f52"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "83849b68afa4422fcbec"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "7da6aea193b9a0b9bddc"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "6c06b2872c9a16e482ef"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "c7a5af5b3f24454bbb6d"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "fd4265f8a3c394459962"
+  },
+  {
+    "site": "r26400_c46800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "dc025b2013fba83c2cd4"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "366f094afb4e7fc4d9e0"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "91dc0f9edbe194599619"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "9a97800965b4356e6698"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "2c185e00e8a58c8d6f6f"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "b9d349926c782e70708c"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "2362f2c829d7a21cbed4"
+  },
+  {
+    "site": "r31200_c32400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "78a5a278cab8124328de"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "e2a7138d4411ade68c82"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "433e2caa761c88771715"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "d3f993219596f1eea711"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "cb90b42c7b337f281ff4"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "e19322ceda14ff5e1c92"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "b596633ba27b2488ae9a"
+  },
+  {
+    "site": "r34800_c70800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "b854b5e2998a276d9878"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "e301ce6d79356e0c849f"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "054f0fea71f5bf557011"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "d61bc323d582366915ad"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "01cd420851cba05c9c90"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "66dee10eed7fad69ae3f"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "baec9fff2cfd1f337952"
+  },
+  {
+    "site": "r19200_c20400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "4d946ddd247b4a395f96"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "8bebba9394c8a9e9351a"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "6fcde03869032de32aa3"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "3f541bfd4105feb47587"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "b73d33237db4e730d3ba"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "209fcf4c30c8d4e2a7da"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "564dbef5e2c63b5efdca"
+  },
+  {
+    "site": "r50400_c64800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "eb0118594c1723658fef"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "4ffb674a1753ef780fb1"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "2056077fd6a78b00e49c"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "7981bb9ae46d8fa9906a"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "fe389d0131fc7612644b"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "3ac73050b2c80e12b685"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "7d5443a9c24f36506207"
+  },
+  {
+    "site": "r42000_c49200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "c9f7bebd14b3f0e6a53b"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "7339c03aaf86132731be"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "a33732122a2f41870666"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "f59a71972584765bfbc8"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "1ba8af1c9fa85f00298d"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "4b3a22d122ab9a6bfd5d"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "8810db36aaeea367bff2"
+  },
+  {
+    "site": "r43200_c43200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "7d325b1c83a8b896fc56"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "cf099509341111a68278"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "479db8f181058875e560"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "1a08065c057b6e93ad4a"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "a7cf227640f4ecd0df5e"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "bac322641ed36f876656"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "201910553f1c1cb03923"
+  },
+  {
+    "site": "r26400_c87600",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "ec3400a58bee40cbd381"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "31cecb4d573a08607929"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "9b531180c2fe72f78657"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "f4315d56a84bcbf0ec2e"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "afa570bc7a188ed6f003"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "5fe2b4b6570dee7fc169"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "7675ea8bac972d149de6"
+  },
+  {
+    "site": "r27600_c84000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "b4386bad67a68a9831bc"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "678d2bb1c9b7e93eec95"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "2ff53135756f46dbca2c"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "ace094fe9af3d5d68752"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "7f2ce25a38c992a1a54c"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "11591cd1b980472ef1b9"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "e2ba7be4ccf443c2adab"
+  },
+  {
+    "site": "r30000_c96000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "ca97ce94ee1c865430c8"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "4ce2b06b4ba78c3b635f"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "a00110dd711187df5037"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "91b2bc5d231a52c40509"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "cdbc84eaf3c4938044fb"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "a471809d29bc03efcd90"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "90a808a78b1e8eba8e43"
+  },
+  {
+    "site": "r37200_c96000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "6a809c318cbd01380d23"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "bbc1ce371eda6660bd54"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "bd239be6f40fa418159b"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "f6e95144f854decec1ba"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "2139a565533dc50c3ae6"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "13a272e9eddbc7c0be3c"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "488c9870f50e2d002dea"
+  },
+  {
+    "site": "r32400_c118800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "9c84c0af996010cf54eb"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d268253f68b8c7a660db"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "eed10e7a1eda333fc1d0"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "165f6f17b37b26665b2e"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "68a4829f87af98d5cfc2"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "927a75e1a484d0d691e1"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "c7eef3386eafad2ff98a"
+  },
+  {
+    "site": "r36000_c116400",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "913a22d217fb39539302"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "574e6c8ffcd44c4c6406"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "cb4a5af201797910cf45"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "6004f66f9e0ad577413b"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "c7449631a526df549cba"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "d3dccfbfd75c9b9fe562"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "4f69f48f3283eb048c25"
+  },
+  {
+    "site": "r27600_c51600",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "f35fb5994f7008ca050d"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "22bbe3283c89f9c1e2d0"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "74f22dc5c07fee322eda"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "a1fc04e568700acb72b3"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "0ccf760181c71c962cbb"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "59395dd47fd53fd41ba7"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "0f0b89c57a6b13a8d395"
+  },
+  {
+    "site": "r27600_c57600",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "2cb1534ced4792abd656"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d61d8118f4b23f1be969"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "fdbe5f3058306ad6e454"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "0e00384d34d4fd26c344"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "3fc517b12e9bfa129244"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "35b046f7ea7c90dd720b"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "f2949e76b17054a104b1"
+  },
+  {
+    "site": "r39600_c97200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "c2b51d660ea575ad1513"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "4cda2d22225711fcfc15"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "558c98761e2abccae7b2"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "6a434fa4205aa6dd7965"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "caf1749dbec066f1a7c6"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "6a551609707b1857416a"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "5730626af1af37f1e52f"
+  },
+  {
+    "site": "r39600_c103200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "81c0721899e30a2e5c40"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d88ab367083d570e027f"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "140c50ff85d75a2516e4"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "1b4764cd83214297073f"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "99f1afd654a4ba32b1ab"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "d401e437fff83f5f19bf"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "680f90153670e999617b"
+  },
+  {
+    "site": "r27600_c70800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "12167c50fff5552174fb"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "f1034bd892153d12be2f"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "fcd5317ed5c4bd7a4cea"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "8c7ebff076edfd9bc807"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "4127233e1bc2628ab0d1"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "207cae0c44bc635e79a4"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "787eda86387c3cbb1175"
+  },
+  {
+    "site": "r27600_c73200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "f147757e4f321e4ef1e6"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "24863d99622e3b04b55d"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "42f30f26ab27c135f532"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "362f2bfb54731467b9bb"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "200be3b47e70fd6c4cd3"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "7de85c91af2e49b4dd73"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "339db6a89b75ce999d19"
+  },
+  {
+    "site": "r30000_c55200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "5f3790d874593afdabd8"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "36a76c684b52118484f1"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "363353d11e1505abc9a9"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "6bb4b514cc6f45a5a48a"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "e17e3eadead801b65565"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "bba9530fecf8bd9d5dfb"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "96bd3aee303bf3195437"
+  },
+  {
+    "site": "r33600_c52800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "91535f1aaa979d5c5dc6"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "9f08a25f462951e87f9c"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "f3395134bd3a561c0311"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "498737b4738861ffbb07"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "f8d8b51075491662c315"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "cdf5120391322729008f"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "aed4e4c820d3d71e21c6"
+  },
+  {
+    "site": "r38400_c105600",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "fd87da902fb3dc5f94eb"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "7517dffb337ef1096564"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "a6cf1bad84d832d9c427"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "889b580acfdcd1761494"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "faeee31ae62355401716"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "84250255ab5132cf6ae2"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "e629bc79ce678aa9d9d3"
+  },
+  {
+    "site": "r38400_c108000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "91146d4b4b8274c32647"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "064c03424989fbf63921"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "c6b37d95ad6503df3d3f"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "5e962210d7c573fb0fd3"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "f376fcdbb7a10552eb9f"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "679f38cd98f042f34861"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "09ce59f5a43dc7e3f34b"
+  },
+  {
+    "site": "r30000_c74400",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "9bfa1ece847c7d366f68"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "53f5847c2d86eeeeb471"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "baf0df6822f97e91993d"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "e373fe41dca2c3ea93ed"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "8bd492ed4f159f853d0d"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "9f2402e29e06213f9acd"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "f38cbc9e41864897a87b"
+  },
+  {
+    "site": "r30000_c78000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "ebc3debe4d0c9fc17c22"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "7e35fc4cf14b065aefed"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "d6b4148a9a60b188bd9f"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "7802db41eb4c9c8dff72"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "d71e972986f7f8e4c334"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "b74f1d39999997f9ea50"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "ed2e413f70b804379298"
+  },
+  {
+    "site": "r21600_c25200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "d7bd798ef93cd771613d"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "ae46c784296825bd8a62"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "90f92d2eb6ab3be0bc4e"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "26aa426c1f4ae06582e1"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "0b79017615e7723a06d5"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "f2d75e38d0eac3b08263"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "534742ec8d83cb969a3f"
+  },
+  {
+    "site": "r26400_c26400",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "6e992f2f2469448f0fb2"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "ea9b2370987769b4b9c4"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "1e529afd8ae36e487f95"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "cb2e959d4fdecbb1b0a1"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "afc1fed820a28ef52bbe"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "b293baaf359ef9b2893c"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "1bea2640ae650359c7e5"
+  },
+  {
+    "site": "r46800_c70800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "417a4d42d6ea51808f9d"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "91bb1af3661e7ac80b7a"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "0167042b1b3f770b3137"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "2ddea8979611b7e7799e"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "b4b8c069a4f5fd164783"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "7dbdc05181f55e3a9066"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "59922370e76f3549198b"
+  },
+  {
+    "site": "r50400_c69600",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "335fea498aee6a808c83"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "1666e3c2c6c5c184254c"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "3a867205cf3ad6e5d43e"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "ac544434c1d835168e2f"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "e51294380ae0524cdcde"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "b17e6046237c30b94b56"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "04657b0d95c526d82520"
+  },
+  {
+    "site": "r32400_c38400",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "9461037e9c94dc9e75ce"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "6ddb7ad75dea5320a458"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "174a03fa2f5c43cc2257"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "706b0eea6927d910e36d"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "48b5d455edf3e27b1f0d"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "4be5e2e7a48e8065fca6"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "2f40fd59075fcc4f8a80"
+  },
+  {
+    "site": "r37200_c36000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "a5fa2aea94de9f19c482"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "c1d020ec0c161ef41baf"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "9112f23f075b2c36d705"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "da691bd2ed31e1d4a917"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "1673e4d0768618f689cb"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "119b969acf11093de79d"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "a8e3d7b9063c0e6f11a1"
+  },
+  {
+    "site": "r38400_c70800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "821f9b3d5438a1ffb56c"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "d8a60977b39d665efa23"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "94e0570c938bc578f8e2"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "d3e51b0855823e97b74c"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "6e9d91a288767c9638c5"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "e42fd38a3f5e57a5b0f5"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "fe79639504a139c83c1d"
+  },
+  {
+    "site": "r40800_c72000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "98b2269d6e407112ca99"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "46c99302c44224da8e7d"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "f4e0bfeced6a2211b84e"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "2c09e40ca50a8ec79350"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "a86de72497aff1183e17"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "23b872483e163cb820aa"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "6511da80e1236eb82e18"
+  },
+  {
+    "site": "r39600_c91200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "2fa4c608a563c90428ad"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "3c2b1c7030429cff9377"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "2d248a68740be3a3a68b"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "110c7fc6ac802ec0a839"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "aa4d91a7f99937232208"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "5d96fa7ab7f729f5bbe7"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "ce1f5db58acc400a4274"
+  },
+  {
+    "site": "r40800_c94800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "b42d954c50b0d5efe45e"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "cc44423c99667ab0873d"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "7bc4d3c877690919e7d6"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "29c8999611fe5238fa26"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "5152a08b636f08a9288b"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "0e60cc0ca6ed4229c144"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "adaac9f56ae245be196e"
+  },
+  {
+    "site": "r22800_c63600",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "0b80a39aa5987cf0c177"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "4c7182cf48b2f9627d50"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "c878a0dd5d1136af25f8"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "c76cf896f621635003c4"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "e3bd20272b275e1c483e"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "610afbc4084a537bfde5"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "7ce071275aea1f028312"
+  },
+  {
+    "site": "r27600_c66000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "aa4936834d5280935dce"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "6b5d3bf893da348968b3"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "0b138619fedaee846439"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "6959aa404645191d0dd4"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "e2e6cd2275d3bbfdc4f4"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "aee80fbc900828e55f0c"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "0e291b66896a2a005989"
+  },
+  {
+    "site": "r40800_c54000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "e2a74d704d4defb2d34f"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "dd763b8ee3315f91a2c6"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "0a2b61e50a2f87d17574"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "b3e6fae7beae5fe7bd4b"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "7a8d268fff097ea9c7e9"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "4d6e8bf3ccbe0e0f03fc"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "bd5dd2bc5ed6071b3008"
+  },
+  {
+    "site": "r44400_c54000",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "8c4d9cf02ffa4ae12630"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "bcf14957a1b0504050cc"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "c2700446fbb254be74c5"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "23e15507c7caed0f69fb"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "3b2bc36de4025ef4fd07"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "076d4f05eb4618382b3a"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "ccf0e469fe7dd8a7adf2"
+  },
+  {
+    "site": "r38400_c121200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "15d0c5776be61b76f67c"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "3dd94301737e81d456e4"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "046e061bf8b607debd4a"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "2a64814da63c35fa8ad4"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "efa7a49b62f474fe7d2e"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "0b79d862b8df2266f9ce"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "48a949db7a00cf1508ff"
+  },
+  {
+    "site": "r38400_c124800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "e76a091d394cfbd0f490"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "5a137d6c09713eee6c96"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "bc4a57764075c05569be"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "816bdfb9a7109bb07e52"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "c0905d963cab044065f7"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "27afd0303d19bda3ae3d"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "d3ce46648f3c9e43beb2"
+  },
+  {
+    "site": "r25200_c37200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "53700999f75a23f18009"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "3732abee8214525a6767"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "cc92823a8a521eaccc6c"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "91bcf76d77234c46e7fe"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "3c9f25bba4fae967c201"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "259534ad0c9af6d66711"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "629865edada5edb9eae2"
+  },
+  {
+    "site": "r26400_c40800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "3acdbcbb6699f9cbf8fc"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "37cfad63dd1109a72ebc"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "8687cad10398eca51bb2"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "708bc2511f64cf5989bf"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "46aa9f7eb90e2b2cf804"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "df243438ff660d1d46d8"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "af70ed9599d6137942d7"
+  },
+  {
+    "site": "r32400_c124800",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "c8383f936ede55bb1af6"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "19011500b54fc0caaa92"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "4a13202aebfd1ef22ec2"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "d93dfca5a2da88c67829"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "a9507fd9d52a2c8b73c6"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "6fd87aa1b749d3dd4d33"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "9373d443da6e2434c07c"
+  },
+  {
+    "site": "r34800_c121200",
+    "phase": "test",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "47266ea43547a2f15f9a"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "7aa7933b686e23f06e84"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "d6ad4d0e88e3bbe39214"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "802457947da2d5dd4640"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "448db4cfabb13318219d"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "2e7ef9bea4bc5503a17f"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "30261311c0ba5590c062"
+  },
+  {
+    "site": "r51600_c55200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "890b80915056c8bda1dd"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "cc728682364e0f701b39"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "852d77e8708907a13bea"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "e5e2eba0a3f0bf858fcd"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "7694d603ce649a3e9059"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "d2d69f6df48d14f2f5a5"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "94e8299a34cc29ea86d0"
+  },
+  {
+    "site": "r15600_c12000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "bb0c6d564d5e7d77bf77"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "52554931a50195fdb6bc"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "559084102bcace012814"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "504195d2f625524d0763"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "5dc21251bfd28554e91d"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "4e9233a1f1cc933610b6"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "5cdf109a6e22383d2bab"
+  },
+  {
+    "site": "r49200_c80400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "c606ab86607441a7b546"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "75a64874f1bf44063fa3"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "b30020aa0d2ab8e39e0a"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "9ea1b41ea670640789ef"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "64ccc941a41311cc0321"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "103e8c6d1cfbc54500d6"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "8f39ed016cfc7d6549e6"
+  },
+  {
+    "site": "r38400_c78000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "fde21eb88b41e593b99d"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "6a563c62307df3411997"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "ec6e72bcc1eff1367c31"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "6e9be0c10a072ae27b39"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "f8a17db16687bcf82532"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "e04f2adbadf31e4cd0ab"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "b64adcf2e289388e287f"
+  },
+  {
+    "site": "r39600_c66000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "84f89a42542dba32af6b"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "5f3d5f268a7a1575cd89"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "bfa2742e4f96cadabd70"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "dd9426c5b6e095d0dbc5"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "a709ba4a6925b475001c"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "6a825e7d705de4b8b4c1"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "b4786518f532f7cd075e"
+  },
+  {
+    "site": "r30000_c103200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "7d22bd005ace61bcec3a"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "eacca621326888dc2038"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "073db093926d549bdf9f"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "af8645098bc9681311db"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "caa946d113dd2ece615b"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "ccc508699dfd1881eb3b"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "80f0b0414f21d4150682"
+  },
+  {
+    "site": "r45600_c39600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "626664522338f13a1877"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "9cda3d359a02936dd939"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "72b17be63059ffab9d38"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "ba27986bb0ade4646b76"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "6c62d140324235c63cf4"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "156841b265e137ac0b36"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "1f66583af942e359896c"
+  },
+  {
+    "site": "r34800_c84000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "68e980c5eeeefca7254c"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "8c17f2e6a7c28bb70f13"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "bd6acc9e8aeeb3013557"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "fcf48ba6b408a541ff11"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "3288de4a936b7fbcd67a"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "6d668a3f83bdeb139412"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "db86d01a25929126bcff"
+  },
+  {
+    "site": "r34800_c58800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "b316b77f779680543fad"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "a17f59791d27e7b43989"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "57a0b167677f9e340419"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "0a83f8d00a5e60a50951"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "e5c2a19d659c3a31b8f2"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "f6f990bd18598a592002"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "4359964c9cee22fdec3d"
+  },
+  {
+    "site": "r55200_c66000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "81a7b74ba6e8b96ae167"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "f20d7594c084eb7395d4"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "9b416e0a3d99075a8960"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "14918f1d60c98238db19"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "64bc5031f6eca1453fee"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "bf236d5e8cfc7507420b"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "ba4c29a6d0bbd9b8010a"
+  },
+  {
+    "site": "r44400_c64800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "c3c89704dfdac53f23a7"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "07c1035564dcc6a1d639"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "5d4428c4b365be52a32c"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "c50460619cf537655909"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "7bbb4f32eb2a3b681abf"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "cf980106f0df1183e681"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "16ce66e3f3eb3d1f8d90"
+  },
+  {
+    "site": "r49200_c74400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "e594c32c8e261c560376"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "0f10db9d15102a6f20f0"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "1a93081b8c1df001e246"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "51c7081ccbd0ab913b38"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "49c94f976765a67a2e88"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "b0c03519d9a1ddf2f33e"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "c6d8a7386f012decaa95"
+  },
+  {
+    "site": "r33600_c64800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "0bb9f89b62bbe4891f30"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "482ec03e5c71ad70c4f8"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "38f95e6892d8c3e813ad"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "77dca0ddc35ebdfe21a2"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "221fcbfaf1ced8ab4783"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "37c66b91526d778c3fe0"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "e0d56e77ada0306edf2c"
+  },
+  {
+    "site": "r28800_c19200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "95f2055c805f8d9b55b4"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "827fb3bcbd00394595c0"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "de17b4d3b67b21e6bc97"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "e1af8a0712211f653004"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "ec64d7a2acad2a42fae4"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "9ade27b57a0b4ef6fe3d"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "6599baa9c48c70603cd5"
+  },
+  {
+    "site": "r37200_c43200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "7b672a920d626c57e1cc"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "e95471159de3ea4aac48"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "7d6b76337d5dfb094db6"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "8f8ce30238b8edb88f1c"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "dc8779ad473267a9d2b5"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "2e2dd5db58156565aef7"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "5b47207c9b6a6e3dfbc0"
+  },
+  {
+    "site": "r27600_c92400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "307ea593f05b35e54361"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "e04a84431c03157d2262"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "861c764f7e202e474c00"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "ae5571dbcb973e290267"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "63f564f4b8cc89fac8d2"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "8ddac7cd1a75f6d9ae66"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "211c685e2af18e4a85f6"
+  },
+  {
+    "site": "r42000_c80400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "52288c7ccd9ff85e7056"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "917faedea9008370e233"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "4460e5567af29c07f856"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "b309f691ef2b8d3ecd02"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "24e56aa3b3b2e2dabef6"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "86c94e76f2efdf40ea3b"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "cacb2a7dc1c8c1a38db4"
+  },
+  {
+    "site": "r52800_c50400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "8e66a692e1f33358d254"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "b9073dfc6f1739ce5192"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "e00a74e8868f1cf70fd1"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "2854ab071984d5381fcc"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "0c0211ef843b750441a5"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "6726ba28b1f5f99f5339"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "e349c07751a86d16718c"
+  },
+  {
+    "site": "r46800_c57600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "332176f7483573317bf2"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "6d8f1c5cd0a5b96113bc"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "56d510c4601ba4a7b04c"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "da94469fb98b2764fcc4"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "5a6f946ecdb745fd7cde"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "d5caacdf008e071e86fd"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "884f79a3b4a51247af2b"
+  },
+  {
+    "site": "r45600_c79200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "35c63194ba2633eab102"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "9a09fd8001e6ba836ee1"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "5484ba7aea87dda76c2e"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "a1eed2e30598f0665952"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "031c7941aed1adb68e97"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "cf7648be4133df824d62"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "c1a2b6acf78699c5dbd4"
+  },
+  {
+    "site": "r54000_c70800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "f5a5c5b533ceef88f115"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "2c7a56fed360d0b1b7b4"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "e528c4bf817c6f6f42a6"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "a9382787fa144e0ef265"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "ef90fd7a3de8174feb42"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "d46f7c4a47ec7a0a23ef"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "bd4088e4f1a9430373ec"
+  },
+  {
+    "site": "r39600_c60000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "faf1456e02c3e854f371"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "8d7e2348c55b97a68e97"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "a9892f5d906633f96a8d"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "88cd26c9a63929f87237"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "bb498a863c3e3312f237"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "198278a96022102dc5d9"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "d5057e68c2ea0e650a7c"
+  },
+  {
+    "site": "r43200_c87600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        6,
+        -6
+      ]
+    ],
+    "case_id": "7a87d1e9050542562459"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "667153ce9f3174a19234"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "9f555bb43a07b02990ea"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "6ff3a6c7aee30ca3c2d0"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "94a00098f768ae12c52a"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "84d0577bdf176f00bf60"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "4ea331697c3292729bcb"
+  },
+  {
+    "site": "r31200_c49200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "1a33a428ea4aa66f3b44"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "63b51ed4952f3995d19d"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "d654267cac824529cdf8"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "eb94c9dfd835de538ddc"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        -6
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "b9ba739da9df8b4f943c"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "b4500f0fb5d340228090"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "b6c6f199d5c84a0edbef"
+  },
+  {
+    "site": "r31200_c69600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "5921f1ffa2597392c802"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "ac6533883ddfed258e10"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "20232aed0a8536a772d5"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "bde5dccd1e11f33f9b93"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "070f328a7cd6359a7bd7"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "case_id": "5364028ea059001b6b5a"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "aa38ac9a657bf55f4c20"
+  },
+  {
+    "site": "r36000_c88800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "4ac963122a54b6e8d913"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "ef7ba413a32fe9b9af3a"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "7e8673a82c5d0592fb9a"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "case_id": "6695b13a099e4e698623"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "f9d7ba3376b24f1a625f"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "92d3e58126397ab8f095"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "68eb4b023b6d58895d6b"
+  },
+  {
+    "site": "r46800_c49200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "f17d73b96837e7071f1a"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "db423c4f745523c862e2"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "a3ffdba14eafa813e893"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "082cbf2e54bcd049b4b7"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "e8f189d8285462483361"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "9347beaa37e70c13fdb7"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "9a2010a7657000c47398"
+  },
+  {
+    "site": "r37200_c129600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "ca778931a5a0cf2d56e8"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "fd7b38fb8d43125bc3a7"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "af662ec450980d9f2fd7"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        -3,
+        -3
+      ]
+    ],
+    "case_id": "e6a1406fe5127f4b256a"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "afcfea30ca9bed41ede2"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "ed652ff4d91c31c960ab"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "f13a4af7dce6020ced02"
+  },
+  {
+    "site": "r33600_c97200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        -6
+      ]
+    ],
+    "case_id": "1b8ea3f8c4b3ee255137"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "dda379b8805504ad6c59"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "d1521c48a2de15a2fe83"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "3f001e527365e3ae8489"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        0
+      ]
+    ],
+    "case_id": "9123deaf94471980be89"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "496572cd1e6c9550f79c"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "f71193c5e38af9e1d653"
+  },
+  {
+    "site": "r26400_c78000",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "70d0c257c0575947520e"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "b7fece9f3f6755e7919b"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "2ca499a30f24e24da632"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "3b2b2469995ded7e62be"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "73bb39eda0642e28ff48"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "05a1dd6991b76293ef2e"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "324657b0170479ef753b"
+  },
+  {
+    "site": "r18000_c25200",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        -6
+      ],
+      [
+        0,
+        6
+      ]
+    ],
+    "case_id": "8ea445d3b3864dd9b313"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "9a91c14b130bb7dbf5a0"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "f99632ef935506fd804d"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "f0e75469a1970f13ca4c"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "763b1cdbf93dda5fac5d"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "535c60532a6b89ba51b5"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        -3
+      ]
+    ],
+    "case_id": "9479e8feb41f3c8be9cb"
+  },
+  {
+    "site": "r50400_c58800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        6,
+        6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "e1425442826c814ece16"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "130356a33b1b672b81d4"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "230af6aa4855eb5ead7a"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        0
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "d00aebe9ebfa3a5e6a95"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "94bf2585600ba6a1af45"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "case_id": "4a8e9b8a8140a8a802e6"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        -3,
+        0
+      ]
+    ],
+    "case_id": "bee58533143f81103def"
+  },
+  {
+    "site": "r46800_c62400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        0
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "9bee9925735047dd8137"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "26032f305affde53ce60"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1
+      ]
+    ],
+    "case_id": "edeb0694a86d5f5ba7b1"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "65ec63c2e9308273b48f"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "d5ed8c3cc3e91873616b"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "case_id": "ec9cdfd86a9f04a797be"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "case_id": "e49254fbbc1e4fbc5421"
+  },
+  {
+    "site": "r28800_c44400",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        0
+      ]
+    ],
+    "case_id": "42c00255b94e56dfc1cb"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "a0109ba91a4d519d0eab"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "case_id": "358730580f67679cc98d"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "c01102a9e562487621f8"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "e2e259dc11467e5c8e9b"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "case_id": "17031753e29f879a1408"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        3,
+        0
+      ],
+      [
+        -3,
+        3
+      ]
+    ],
+    "case_id": "0a90fbd569179db28640"
+  },
+  {
+    "site": "r38400_c82800",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        -6,
+        6
+      ]
+    ],
+    "case_id": "3af37d17b4397af5931c"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 0,
+    "family": "G0",
+    "m": 0,
+    "d": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "case_id": "cf0a24e21739543318e4"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 1,
+    "family": "G1",
+    "m": 1,
+    "d": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "case_id": "f764a9bce0af58cadffa"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 2,
+    "family": "G1",
+    "m": 3,
+    "d": [
+      [
+        3,
+        -3
+      ],
+      [
+        3,
+        -3
+      ]
+    ],
+    "case_id": "cbbdbf527b16baa49804"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 3,
+    "family": "G1",
+    "m": 6,
+    "d": [
+      [
+        0,
+        -6
+      ],
+      [
+        0,
+        -6
+      ]
+    ],
+    "case_id": "2d3dad187d7438212285"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 4,
+    "family": "G2",
+    "m": 1,
+    "d": [
+      [
+        -1,
+        -1
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "case_id": "27db21a3003c78c76385"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 5,
+    "family": "G2",
+    "m": 3,
+    "d": [
+      [
+        -3,
+        -3
+      ],
+      [
+        0,
+        3
+      ]
+    ],
+    "case_id": "eccc5c7e88b469680e4d"
+  },
+  {
+    "site": "r18000_c111600",
+    "phase": "development",
+    "case_index": 6,
+    "family": "G2",
+    "m": 6,
+    "d": [
+      [
+        -6,
+        6
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "case_id": "c13671dc72ea6684e7c4"
+  }
+]

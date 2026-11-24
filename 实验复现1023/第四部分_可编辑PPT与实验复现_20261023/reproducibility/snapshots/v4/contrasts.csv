@@ -1,0 +1,7 @@
+﻿comparison,metric,n_blocks,mean,median,ci_low,ci_high,positive,negative,zero
+single_best minus full,E_pixels,20,0.0,0.0,0.0,0.0,0,0,20
+basic minus full,E_pixels,20,0.0,0.0,0.0,0.0,0,0,20
+A0 minus full,E_pixels,20,2.542563910911526,2.5693742967516195,2.4347715962468772,2.641163297120493,20,0,0
+full minus single_best,change_union_F1,20,0.0,0.0,0.0,0.0,0,0,20
+full minus single_best,expansion_F1,20,0.0,0.0,0.0,0.0,0,0,20
+full minus single_best,contraction_F1,20,0.0,0.0,0.0,0.0,0,0,20

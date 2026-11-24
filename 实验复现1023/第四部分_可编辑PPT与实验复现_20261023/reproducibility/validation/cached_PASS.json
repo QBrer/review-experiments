@@ -1,0 +1,34 @@
+{
+  "mode": "cached",
+  "status": "PASS",
+  "outputs": "C:\\Users\\QBrer\\OneDrive\\桌面\\数据对齐\\润色\\第四部分_可编辑图件与复现包_20261023\\reproducibility\\runs\\20261023_163902_cached_24823f",
+  "comparisons": [
+    {
+      "file": "v4/development_oof.csv",
+      "rows": 840,
+      "matches": true
+    },
+    {
+      "file": "v4/locked_choices.csv",
+      "rows": 840,
+      "matches": true
+    },
+    {
+      "file": "v4/locked_candidate_predictions.csv",
+      "rows": 1120,
+      "matches": true
+    },
+    {
+      "file": "v5/development_calibration.csv",
+      "rows": 30,
+      "matches": true
+    },
+    {
+      "file": "v5/locked_predictions.csv",
+      "rows": 21630,
+      "matches": true
+    }
+  ],
+  "original_snapshots_unchanged": true,
+  "raw_raster_metrics_recomputed": false
+}

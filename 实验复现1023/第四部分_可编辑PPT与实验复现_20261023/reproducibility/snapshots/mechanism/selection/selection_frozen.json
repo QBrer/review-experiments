@@ -1,0 +1,11 @@
+{
+  "frozen_at": "2026-10-16T10:17:42.193978+00:00",
+  "parameters_sha256": "75f703515d833ec98ce34166bcf2e44f9458df57eae1f594f314b6b0d5af6987",
+  "candidates_sha256": "898829a2cb7238ee351bce32523819f3ca8301e249e841cbf9188e2bc152e932",
+  "selected_sha256": "5ab1ae25c0833f8312de8439efdb777aa6286bd65db50613719148155ff90a6e",
+  "thresholds_sha256": "d394b913400767846c0662dbd091b5537b2481d3388dab67472d6e16739d4ba8",
+  "n_High": 12,
+  "n_Low": 12,
+  "no_new_outcomes_computed": true,
+  "selection_code_sha256": "e2b8c709d08fc576d037493d79ee0f799b732ac9ac77963b689d1c5c69f803ac"
+}

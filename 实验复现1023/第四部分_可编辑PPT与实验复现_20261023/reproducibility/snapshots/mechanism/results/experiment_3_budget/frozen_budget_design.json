@@ -1,0 +1,68 @@
+{
+  "version": "budget-E3-v1",
+  "frozen_at": "2026-10-16T12:22:05.843649+00:00",
+  "code_sha256": "f1fa2c177b31e44f93a21291840c450281380a6a267d5050283b3edf3499d1bf",
+  "protected_files": {
+    "E:\\数据对齐实验数据2\\新-实验方案\\parameters\\frozen_parameters.json": "75f703515d833ec98ce34166bcf2e44f9458df57eae1f594f314b6b0d5af6987",
+    "E:\\数据对齐实验数据2\\新-实验方案\\selection\\selected_regions.csv": "5ab1ae25c0833f8312de8439efdb777aa6286bd65db50613719148155ff90a6e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_1\\coupling.csv": "0efc66340461b35b8f3139b900962c00f7230c886c088a6c00c23c85832c550e",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_2\\order.csv": "6c56d5adc0605c8d574b0a810c45295f571a20b9c00630901fbaad124131ec3a",
+    "E:\\数据对齐实验数据2\\新-实验方案\\results\\experiment_3\\change.csv": "7f54e953493bf7a37a5ca7bdb6c66044772389d27419f5aa57990c2087c818de"
+  },
+  "conditions": {
+    "years": [
+      2010,
+      2020
+    ],
+    "scale": 30,
+    "semantics": "coarse3",
+    "windows": "same frozen 12High+12Low; B2 descriptive only",
+    "mask": "intersection legal original codes in H2000,H2010,H2015,H2020,W2020; same mask in all experiments and composition"
+  },
+  "baseline": "max over the two epochs of three-class area entropy; descending",
+  "proposed": "1-min over the two epochs of maximum three-class area proportion; descending",
+  "primary_budget": "K=count(valid blocks AND (P2010<0.90 OR P2020<0.90)); both methods select exactly K",
+  "secondary_budgets": [
+    0.1,
+    0.25,
+    0.5,
+    0.75
+  ],
+  "rounding": "floor(B * number_of_positive_valid_area_blocks)",
+  "eligibility": "positive valid-area blocks",
+  "ties": "exact score ties: row-major block index ascending; no score tolerance",
+  "proposed_fixed_budgets": "rank all valid cells, including purity>=0.90 when needed to fill budget",
+  "representation": "identical two-epoch coarse uint8 labels + K uint32 row-major indices + two Kx30x30 uint8 native coarse3 payloads; invalid native positions=255",
+  "metadata": "byte-identical JSON for paired outputs; strategy and scores recorded separately in audit tables, not inference payload",
+  "common_cost": "full uint8 valid mask + float64 row area + common JSON charged to each method",
+  "logical_cost": "sum array nbytes + metadata UTF8 bytes; exact equality asserted per pair; actual compressed bytes reported separately",
+  "reference": "native binary SL change; internal, not independent ground truth",
+  "endpoints": [
+    "F1 primary binary change",
+    "IoU",
+    "omission=FN/reference-positive area",
+    "commission=FP/predicted-positive area",
+    "FP and FN area",
+    "coverage",
+    "fine cell fraction",
+    "fine valid area fraction",
+    "logical bytes",
+    "compressed bytes",
+    "index bytes",
+    "metadata bytes"
+  ],
+  "statistics": {
+    "unit": "sample window; B2 excluded",
+    "test": "two-sided exact paired sign-flip test of mean difference, enumerate all 2^n",
+    "effect": "mean and median paired difference plus paired rank-biserial descriptive",
+    "bootstrap": "paired whole-window percentile CI, 10000 replicates",
+    "seed": 20261016,
+    "min_pairs": 5,
+    "missing": "complete finite pairs with n and missing reported; no replacement; NA remains in planned family as p=1 placeholder",
+    "secondary": "descriptive estimates and window bootstrap CI only; no secondary p-values",
+    "all_zero": "p=1 and effect=0"
+  },
+  "primary_family": "High and Low natural-budget paired F1 differences, two-sided exact sign-flip; Holm2; B2 excluded",
+  "background": "Coarse-only and Full raw noncompeting; neither contributes primary tests",
+  "interpretation": "post-original-study design revision; existing windows previously observed; no claim of fresh blind external validation"
+}

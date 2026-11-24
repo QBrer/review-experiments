@@ -1,0 +1,7 @@
+{
+  "python": "E:\\anconda\\envs\\py310\\python.exe",
+  "numpy": "1.26.4",
+  "rasterio": "1.4.3",
+  "threads": 6,
+  "rss": 254078976
+}

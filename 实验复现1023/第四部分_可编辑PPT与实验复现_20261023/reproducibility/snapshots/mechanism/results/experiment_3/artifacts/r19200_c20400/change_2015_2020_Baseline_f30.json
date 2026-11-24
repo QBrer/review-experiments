@@ -1,0 +1,28 @@
+{
+  "site": "r19200_c20400",
+  "transform": [
+    0.000269494585235856,
+    0.0,
+    93.23272974068547,
+    0.0,
+    -0.00026949458523585604,
+    48.248424078531094,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "CRS": "EPSG:4326",
+  "parameter_sha256": "75f703515d833ec98ce34166bcf2e44f9458df57eae1f594f314b6b0d5af6987",
+  "raw_sha256": {
+    "H2000": "97d5264b5917f2e0d963fd038fe06dbe74677923d28d02b3f06fb55f5264c0f4",
+    "H2010": "9c104671be17e2583b41cdd6dd4e7eb8ca21d1d16310faa9909cbaec06cb382e",
+    "H2015": "b7ddaeff07048454149554cf0633d2a9e8b25e3acad2beaf63752df411340ad0",
+    "H2020": "4daaf3864bb6248c43974115d9df8bbaef4b4b0f0e00214118bb77ab3daaf7b8",
+    "W2020": "db08689eb52cd2d35be26edfac112fba2825f0f4dcbe1ed4df1e215f8ae57620"
+  },
+  "task": "SL_change",
+  "strategy": "Baseline",
+  "scale": 30,
+  "start_year": 2015,
+  "end_year": 2020
+}

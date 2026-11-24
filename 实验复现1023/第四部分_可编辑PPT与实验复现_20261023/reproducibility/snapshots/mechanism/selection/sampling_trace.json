@@ -1,0 +1,194 @@
+[
+  {
+    "turn": 1,
+    "group": "High",
+    "n_available": 179,
+    "chosen": "r44400_c74400",
+    "minimum_distance_m": null,
+    "selection": "random first in group"
+  },
+  {
+    "turn": 2,
+    "group": "Low",
+    "n_available": 179,
+    "chosen": "r34800_c48000",
+    "minimum_distance_m": 650561.1436543069,
+    "selection": "random first in group"
+  },
+  {
+    "turn": 3,
+    "group": "High",
+    "n_available": 174,
+    "chosen": "r33600_c129600",
+    "minimum_distance_m": 1258109.9929048347,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 4,
+    "group": "Low",
+    "n_available": 172,
+    "chosen": "r27600_c13200",
+    "minimum_distance_m": 771540.724893057,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 5,
+    "group": "High",
+    "n_available": 171,
+    "chosen": "r36000_c100800",
+    "minimum_distance_m": 627627.9432235195,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 6,
+    "group": "Low",
+    "n_available": 170,
+    "chosen": "r15600_c114000",
+    "minimum_distance_m": 627801.1039270613,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 7,
+    "group": "High",
+    "n_available": 169,
+    "chosen": "r24000_c74400",
+    "minimum_distance_m": 610865.5639178575,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 8,
+    "group": "Low",
+    "n_available": 169,
+    "chosen": "r57600_c60000",
+    "minimum_distance_m": 516940.3341983049,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 9,
+    "group": "High",
+    "n_available": 167,
+    "chosen": "r10800_c21600",
+    "minimum_distance_m": 530853.1362054568,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 10,
+    "group": "Low",
+    "n_available": 167,
+    "chosen": "r49200_c45600",
+    "minimum_distance_m": 420142.6124565739,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 11,
+    "group": "High",
+    "n_available": 162,
+    "chosen": "r22800_c31200",
+    "minimum_distance_m": 399273.3948297674,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 12,
+    "group": "Low",
+    "n_available": 165,
+    "chosen": "r43200_c58800",
+    "minimum_distance_m": 346392.85836988484,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 13,
+    "group": "High",
+    "n_available": 158,
+    "chosen": "r56400_c74400",
+    "minimum_distance_m": 343172.985172057,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 14,
+    "group": "Low",
+    "n_available": 158,
+    "chosen": "r39600_c116400",
+    "minimum_distance_m": 339549.40257811244,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 15,
+    "group": "High",
+    "n_available": 152,
+    "chosen": "r30000_c87600",
+    "minimum_distance_m": 329005.5896415769,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 16,
+    "group": "Low",
+    "n_available": 156,
+    "chosen": "r30000_c61200",
+    "minimum_distance_m": 317168.7154949285,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 17,
+    "group": "High",
+    "n_available": 149,
+    "chosen": "r28800_c110400",
+    "minimum_distance_m": 297933.25353587867,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 18,
+    "group": "Low",
+    "n_available": 154,
+    "chosen": "r40800_c37200",
+    "minimum_distance_m": 297387.1840119103,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 19,
+    "group": "High",
+    "n_available": 148,
+    "chosen": "r39600_c86400",
+    "minimum_distance_m": 288629.6186789012,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 20,
+    "group": "Low",
+    "n_available": 150,
+    "chosen": "r26400_c46800",
+    "minimum_distance_m": 252863.29271918652,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 21,
+    "group": "High",
+    "n_available": 147,
+    "chosen": "r31200_c32400",
+    "minimum_distance_m": 252862.58366809468,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 22,
+    "group": "Low",
+    "n_available": 149,
+    "chosen": "r34800_c70800",
+    "minimum_distance_m": 250887.66087371454,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 23,
+    "group": "High",
+    "n_available": 146,
+    "chosen": "r19200_c20400",
+    "minimum_distance_m": 243981.9761314254,
+    "selection": "global maximin"
+  },
+  {
+    "turn": 24,
+    "group": "Low",
+    "n_available": 147,
+    "chosen": "r50400_c64800",
+    "minimum_distance_m": 243008.32898117907,
+    "selection": "global maximin"
+  }
+]

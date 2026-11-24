@@ -1,0 +1,13 @@
+{
+  "python": "E:\\anconda\\envs\\py310\\python.exe",
+  "rasters": {
+    "H2010": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2010.tif",
+    "H2020": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2020.tif",
+    "W2010": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2010.tif",
+    "W2020": "E:\\数据对齐实验数据2\\Long-term Land Cover Dataset of the Mongolian Plateau Based on Multi-source Data and Rich Sample Annotations\\MON_LULC\\2020.tif",
+    "H2000": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2000.tif",
+    "H2015": "E:\\数据对齐实验数据2\\A multi-temporal sandy desert and sandy land classification dataset for the Mongolian Plateau from 1990 to 2020\\MPSDSL\\2015.tif"
+  },
+  "runs_directory": "runs",
+  "notes": "Edit only rasters when moving computers. All outputs are created in new run subdirectories."
+}

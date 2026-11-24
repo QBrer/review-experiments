@@ -1,0 +1,86 @@
+{
+  "version": "ABLATION-V5-20261022",
+  "status": "FROZEN_BEFORE_NEW_MATCHING",
+  "primary_gamma": 0.5,
+  "primary_lambda": 0.25,
+  "methods": [
+    "G",
+    "GS",
+    "GT",
+    "GST"
+  ],
+  "grid": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.25,
+      0.0
+    ],
+    [
+      0.5,
+      0.0
+    ],
+    [
+      0.0,
+      0.25
+    ],
+    [
+      0.25,
+      0.25
+    ],
+    [
+      0.5,
+      0.25
+    ],
+    [
+      0.0,
+      0.5
+    ],
+    [
+      0.25,
+      0.5
+    ],
+    [
+      0.5,
+      0.5
+    ],
+    [
+      0.0,
+      1.0
+    ],
+    [
+      0.25,
+      1.0
+    ],
+    [
+      0.5,
+      1.0
+    ]
+  ],
+  "data": [
+    {
+      "set": "old40_exploratory",
+      "windows": 40,
+      "blocks": 20
+    },
+    {
+      "set": "low_SL_extrapolation",
+      "windows": 63,
+      "blocks": 14
+    }
+  ],
+  "main_contrasts": [
+    "GT-GST",
+    "GS-GST"
+  ],
+  "main_CI_level": 0.975,
+  "bootstrap": 10000,
+  "protocol_sha256": "c391325f9c9f1d6979b37f9bbdc1d89ff90bd1d2736f778517323498e2f6775d",
+  "split_sha256": "7b7f4230b281841795c3f04e9a6e5f0fc141e528fa98fb18bf89221ab8aa7851",
+  "code_sha256": "2907c3e5e0d204c74eb193accf1aadcc5d20d5a0f67395f9d6f13ab3f5a09550",
+  "prior_engine_sha256": "aedd5f75c4667e72289c639ac4c8a2ce5a556e2cbee5dbb53dc408fcc8aa2647",
+  "matrix_sha256": "cae82c6ad51c7712c16a4713119da08b2a9ea1fbbf0602b0989e3531eba21b4a",
+  "no_new_test_outcomes_used": true
+}

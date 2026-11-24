@@ -1,0 +1,26 @@
+{
+  "G": {
+    "method": "G",
+    "gamma": 0.0,
+    "lambda": 0.0,
+    "training_E": 0.6005963772961715
+  },
+  "GS": {
+    "method": "GS",
+    "gamma": 0.25,
+    "lambda": 0.0,
+    "training_E": 0.04990693975612193
+  },
+  "GT": {
+    "method": "GT",
+    "gamma": 0.25,
+    "lambda": 1.0,
+    "training_E": 0.554578662845804
+  },
+  "GST": {
+    "method": "GST",
+    "gamma": 0.5,
+    "lambda": 0.25,
+    "training_E": 0.048055087904270086
+  }
+}

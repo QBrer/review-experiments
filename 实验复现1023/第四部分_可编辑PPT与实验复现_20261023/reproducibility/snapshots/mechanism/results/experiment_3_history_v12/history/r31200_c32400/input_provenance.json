@@ -1,0 +1,19 @@
+{
+  "site": "r31200_c32400",
+  "origins": {
+    "2000": [
+      31200,
+      32400
+    ],
+    "2010": [
+      31319,
+      32400
+    ]
+  },
+  "coverage": 1.0,
+  "array_sha256": {
+    "2000": "d77cc69aeedb727060abcdcac1b61455059a988f5a3157324878ab5e60c3eaf9",
+    "2010": "ac8c99b55347adf8862abb1c43afa6d697ecf165ace504d88d49aeaa6a391157"
+  },
+  "domain_sha256": "26214137c25aa6ad9bdb6a81976afb0cdbd22b76902a3ee2f707655f1f80a700"
+}

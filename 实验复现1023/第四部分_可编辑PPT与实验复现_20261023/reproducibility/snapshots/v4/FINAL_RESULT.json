@@ -1,0 +1,33 @@
+{
+  "primary": {
+    "comparison": "single_best minus full",
+    "metric": "E_pixels",
+    "n_blocks": 20,
+    "mean": 0.0,
+    "median": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "positive": 0,
+    "negative": 0,
+    "zero": 20,
+    "meets_0_5_practical_criterion": false
+  },
+  "single_best_candidate": 3,
+  "final_candidate_parameters": {
+    "g1": 0,
+    "g2": 0,
+    "g3": 0.5,
+    "lam": 0.25
+  },
+  "test_windows": 40,
+  "test_blocks": 20,
+  "scenarios": 280,
+  "candidate_predictions": 1120,
+  "task_rows": 3360,
+  "all_choices_frozen_before_test_full_matching": true,
+  "positive_reference_change_windows": 40,
+  "unique_output_tifs": 582,
+  "protected_files_unchanged": 5006,
+  "data_issues_excluded": [],
+  "no_test_parameter_retuning": true
+}

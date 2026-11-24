@@ -1,0 +1,10 @@
+{
+  "time": "2026-10-16T10:29:15.380815+00:00",
+  "passed": true,
+  "unchanged_input_size_mtime": true,
+  "unchanged_frozen_parameters_and_selection": true,
+  "independent_F1_check": true,
+  "artifact_costs_verified": 600,
+  "formal_cases": 25,
+  "primary_inference_windows": 24
+}

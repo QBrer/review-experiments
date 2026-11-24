@@ -1,0 +1,26 @@
+{
+  "site": "r10800_c21600",
+  "transform": [
+    0.000269494585235856,
+    0.0,
+    93.55612324296851,
+    0.0,
+    -0.00026949458523585604,
+    50.512178594512285,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "CRS": "EPSG:4326",
+  "parameter_sha256": "75f703515d833ec98ce34166bcf2e44f9458df57eae1f594f314b6b0d5af6987",
+  "raw_sha256": {
+    "H2000": "d7332dd0433e9618760c93f2f06f52c70e82336b61c3f9d836842d85bbf3ea07",
+    "H2010": "53351fd20d58d40fd2adea9ab66d69a0ae2136bdf25fb29edda10199f2242d2e",
+    "H2015": "56a48834eab5bb1eae60f8c19aa286b466ec47f1d49a96f73fe2a0bf9ba20393",
+    "H2020": "9042c9e69a207a578b6314c6dfde65966dda5327be8959fabef0dfe9b7f7d64c",
+    "W2020": "9e9a5b57e5c01ca78b477b5539229ee4633613962225de9bf017cd787ece1356"
+  },
+  "representation": "native3 background, not a competing strategy",
+  "start_year": 2015,
+  "end_year": 2020
+}

@@ -1,0 +1,10 @@
+{
+  "time": "2026-10-19T09:41:13.265820+00:00",
+  "passed": true,
+  "section451_to453_unchanged": true,
+  "source_unchanged": true,
+  "decision_table": "4.4",
+  "area_table": "4.5",
+  "scale_diagnostic_table": "4.6",
+  "real_feedback_repair_claimed": false
+}

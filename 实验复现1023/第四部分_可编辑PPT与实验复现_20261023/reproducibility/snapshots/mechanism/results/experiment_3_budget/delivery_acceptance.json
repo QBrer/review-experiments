@@ -1,0 +1,9 @@
+{
+  "time": "2026-10-16T14:45:34.811149+00:00",
+  "passed": true,
+  "artifact_costs_verified": 300,
+  "matched_pairs": 125,
+  "old_experiment_files_unchanged": true,
+  "natural_identical_masks_new_windows": 18,
+  "new_manuscript": "E:\\数据对齐实验数据2\\新-实验方案\\reports\\4.5_正文_同预算实验3版.md"
+}

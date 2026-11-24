@@ -1,0 +1,20 @@
+{
+  "stage": "evaluate",
+  "start": "2026-10-22 11:06:44",
+  "status": "complete",
+  "seconds": 146.23290038108826,
+  "peak_working_set": {
+    "rss": 211488768,
+    "vms": 905179136,
+    "num_page_faults": 56633439,
+    "peak_wset": 624132096,
+    "wset": 211488768,
+    "peak_paged_pool": 935736,
+    "paged_pool": 935640,
+    "peak_nonpaged_pool": 97896,
+    "nonpaged_pool": 90824,
+    "pagefile": 905179136,
+    "peak_pagefile": 1317126144,
+    "private": 905179136
+  }
+}
